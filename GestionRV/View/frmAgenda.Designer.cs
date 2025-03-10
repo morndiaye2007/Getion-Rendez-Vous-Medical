@@ -62,7 +62,7 @@
             // 
             // btnSupprimer
             // 
-            this.btnSupprimer.Location = new System.Drawing.Point(350, 544);
+            this.btnSupprimer.Location = new System.Drawing.Point(266, 544);
             this.btnSupprimer.Name = "btnSupprimer";
             this.btnSupprimer.Size = new System.Drawing.Size(87, 26);
             this.btnSupprimer.TabIndex = 51;
@@ -71,7 +71,7 @@
             // 
             // btnModifier
             // 
-            this.btnModifier.Location = new System.Drawing.Point(234, 544);
+            this.btnModifier.Location = new System.Drawing.Point(150, 544);
             this.btnModifier.Name = "btnModifier";
             this.btnModifier.Size = new System.Drawing.Size(87, 26);
             this.btnModifier.TabIndex = 49;
@@ -80,7 +80,7 @@
             // 
             // btnAjouter
             // 
-            this.btnAjouter.Location = new System.Drawing.Point(118, 544);
+            this.btnAjouter.Location = new System.Drawing.Point(34, 544);
             this.btnAjouter.Name = "btnAjouter";
             this.btnAjouter.Size = new System.Drawing.Size(87, 26);
             this.btnAjouter.TabIndex = 46;
@@ -91,7 +91,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(115, 397);
+            this.label6.Location = new System.Drawing.Point(31, 397);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(58, 16);
             this.label6.TabIndex = 52;
@@ -99,7 +99,7 @@
             // 
             // txtLieu
             // 
-            this.txtLieu.Location = new System.Drawing.Point(115, 360);
+            this.txtLieu.Location = new System.Drawing.Point(31, 360);
             this.txtLieu.Name = "txtLieu";
             this.txtLieu.Size = new System.Drawing.Size(230, 22);
             this.txtLieu.TabIndex = 43;
@@ -107,7 +107,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(115, 329);
+            this.label5.Location = new System.Drawing.Point(31, 329);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(32, 16);
             this.label5.TabIndex = 50;
@@ -115,7 +115,7 @@
             // 
             // txtHeureFin
             // 
-            this.txtHeureFin.Location = new System.Drawing.Point(115, 292);
+            this.txtHeureFin.Location = new System.Drawing.Point(31, 292);
             this.txtHeureFin.Name = "txtHeureFin";
             this.txtHeureFin.Size = new System.Drawing.Size(230, 22);
             this.txtHeureFin.TabIndex = 42;
@@ -123,7 +123,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(115, 261);
+            this.label4.Location = new System.Drawing.Point(31, 261);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(65, 16);
             this.label4.TabIndex = 47;
@@ -131,7 +131,7 @@
             // 
             // txtHeureDebut
             // 
-            this.txtHeureDebut.Location = new System.Drawing.Point(115, 224);
+            this.txtHeureDebut.Location = new System.Drawing.Point(31, 224);
             this.txtHeureDebut.Name = "txtHeureDebut";
             this.txtHeureDebut.Size = new System.Drawing.Size(230, 22);
             this.txtHeureDebut.TabIndex = 40;
@@ -139,7 +139,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(115, 193);
+            this.label3.Location = new System.Drawing.Point(31, 193);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(83, 16);
             this.label3.TabIndex = 44;
@@ -148,7 +148,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(115, 125);
+            this.label2.Location = new System.Drawing.Point(31, 125);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(36, 16);
             this.label2.TabIndex = 41;
@@ -156,7 +156,7 @@
             // 
             // txtTitre
             // 
-            this.txtTitre.Location = new System.Drawing.Point(115, 88);
+            this.txtTitre.Location = new System.Drawing.Point(31, 88);
             this.txtTitre.Name = "txtTitre";
             this.txtTitre.Size = new System.Drawing.Size(230, 22);
             this.txtTitre.TabIndex = 37;
@@ -164,7 +164,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(115, 57);
+            this.label1.Location = new System.Drawing.Point(33, 57);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(34, 16);
             this.label1.TabIndex = 38;
@@ -172,6 +172,7 @@
             // 
             // dgMedecin
             // 
+            this.dgMedecin.BackgroundColor = System.Drawing.SystemColors.ControlDarkDark;
             this.dgMedecin.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgMedecin.Location = new System.Drawing.Point(569, 57);
             this.dgMedecin.Name = "dgMedecin";
@@ -182,7 +183,7 @@
             // 
             // txtDateAgenda
             // 
-            this.txtDateAgenda.Location = new System.Drawing.Point(115, 158);
+            this.txtDateAgenda.Location = new System.Drawing.Point(31, 158);
             this.txtDateAgenda.Name = "txtDateAgenda";
             this.txtDateAgenda.Size = new System.Drawing.Size(230, 22);
             this.txtDateAgenda.TabIndex = 56;
@@ -199,7 +200,7 @@
             // 
             // txtCreneau
             // 
-            this.txtCreneau.Location = new System.Drawing.Point(115, 444);
+            this.txtCreneau.Location = new System.Drawing.Point(31, 444);
             this.txtCreneau.Name = "txtCreneau";
             this.txtCreneau.Size = new System.Drawing.Size(230, 22);
             this.txtCreneau.TabIndex = 59;
@@ -207,7 +208,7 @@
             // lblMedecin
             // 
             this.lblMedecin.AutoSize = true;
-            this.lblMedecin.Location = new System.Drawing.Point(115, 484);
+            this.lblMedecin.Location = new System.Drawing.Point(31, 484);
             this.lblMedecin.Name = "lblMedecin";
             this.lblMedecin.Size = new System.Drawing.Size(0, 16);
             this.lblMedecin.TabIndex = 60;
@@ -215,7 +216,7 @@
             // lblIdMedecin
             // 
             this.lblIdMedecin.AutoSize = true;
-            this.lblIdMedecin.Location = new System.Drawing.Point(218, 484);
+            this.lblIdMedecin.Location = new System.Drawing.Point(134, 484);
             this.lblIdMedecin.Name = "lblIdMedecin";
             this.lblIdMedecin.Size = new System.Drawing.Size(0, 16);
             this.lblIdMedecin.TabIndex = 61;

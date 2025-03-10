@@ -159,6 +159,12 @@
     <Compile Include="View\frmAgenda.Designer.cs">
       <DependentUpon>frmAgenda.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\frmDemandeRendezVous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDemandeRendezVous.Designer.cs">
+      <DependentUpon>frmDemandeRendezVous.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\frmMedecin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -210,6 +216,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\frmAgenda.resx">
       <DependentUpon>frmAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDemandeRendezVous.resx">
+      <DependentUpon>frmDemandeRendezVous.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\frmMedecin.resx">
       <DependentUpon>frmMedecin.cs</DependentUpon>
