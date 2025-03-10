@@ -71,3 +71,4 @@ C:\Users\Babacar\source\repos\GestionRV\GestionRV\bin\Debug\stdole.dll
 C:\Users\Babacar\source\repos\GestionRV\GestionRV\obj\Debug\GestionRV.View.dgAgenda.resources
 C:\Users\Babacar\source\repos\GestionRV\GestionRV\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\Babacar\source\repos\GestionRV\GestionRV\obj\Debug\GestionRV.View.frmPrintTicket.resources
+C:\Users\Babacar\source\repos\GestionRV\GestionRV\obj\Debug\GestionRV.View.frmDemandeRendezVous.resources

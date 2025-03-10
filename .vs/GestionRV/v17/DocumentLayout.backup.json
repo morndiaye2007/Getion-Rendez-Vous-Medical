@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\model\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\view\\frmpatient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\babacar\\source\\repos\\gestionrv\\gestionrv\\view\\frmdemanderendezvous.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmdemanderendezvous.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -21,6 +29,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\view\\frmpatient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\model\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Babacar\\source\\repos\\GestionRV\\gestionrv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +74,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Program.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Program.cs",
+              "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Program.cs",
+              "RelativeToolTip": "GestionRV\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:15:27.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\packages.config",
+              "RelativeDocumentMoniker": "GestionRV\\packages.config",
+              "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\packages.config",
+              "RelativeToolTip": "GestionRV\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-10T00:15:18.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "GestionRV\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:15:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDemandeRendezVous.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmDemandeRendezVous.Designer.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmDemandeRendezVous.Designer.cs",
+              "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmDemandeRendezVous.Designer.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmDemandeRendezVous.Designer.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:13:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmRendezVous.cs",
+              "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmRendezVous.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmRendezVous.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:53:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmPatient.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmPatient.Designer.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.Designer.cs",
               "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmPatient.Designer.cs",
               "RelativeToolTip": "GestionRV\\View\\frmPatient.Designer.cs",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAawAwBAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T05:00:40.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T05:00:40.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "frmMDI.cs",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\frmMDI.cs",
               "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",
@@ -83,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ClasseReportTicketRv.cs",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Model\\ClasseReportTicketRv.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\ClasseReportTicketRv.cs",
@@ -91,12 +179,11 @@
               "RelativeToolTip": "GestionRV\\Model\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA+wA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T03:32:09.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T03:32:09.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "frmAgenda.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmAgenda.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmAgenda.cs",
@@ -107,20 +194,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmPatient.cs",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmPatient.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
               "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmPatient.cs",
               "RelativeToolTip": "GestionRV\\View\\frmPatient.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAASwGQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAEwHsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:36:32.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T13:36:32.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "frmMedecin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmMedecin.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmMedecin.cs",
@@ -131,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Model\\BdRvMedicalContext.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\BdRvMedicalContext.cs",
@@ -143,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "frmRendezVous.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmRendezVous.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmRendezVous.cs",
@@ -155,19 +241,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "frmPatient.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmPatient.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
               "ToolTip": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\View\\frmPatient.cs [Design]",
               "RelativeToolTip": "GestionRV\\View\\frmPatient.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T13:18:54.53Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-05T13:18:54.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "GestionRV\\Form1.Designer.cs",
@@ -179,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "frmMDI.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Babacar\\source\\repos\\GestionRV\\GestionRV\\frmMDI.cs",
               "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",

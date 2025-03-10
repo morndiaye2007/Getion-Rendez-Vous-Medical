@@ -1,0 +1,8 @@
+# Ignorer le dossier de Visual Studio
+.vs/
+
+# Ignorer les fichiers de compilation et binaires
+bin/
+obj/
+*.user
+*.suo
