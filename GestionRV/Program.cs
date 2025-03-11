@@ -17,7 +17,7 @@ namespace GestionRV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPrintTicket());
+            Application.Run(new frmConnexion());
         }
     }
 }
