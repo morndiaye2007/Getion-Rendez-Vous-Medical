@@ -19,6 +19,7 @@ namespace GestionRV.View
             InitializeComponent();
         }
 
+
         private void btnAjouter_Click(object sender, EventArgs e)
         {
             Medecin m = new Medecin();
@@ -42,7 +43,7 @@ namespace GestionRV.View
             cbbSpecialite.SelectedValue = String.Empty;
             txtNumeroOrdreMedecin.Text = String.Empty;
             txtNomPrenom.Text = String.Empty;
-            cbbSpecialite.DataSource = LoadcbbSpecialite();
+            cbbSpecialite.DataSource = LoadCbbSpecialite();
             cbbSpecialite.ValueMember = "Value";
             cbbSpecialite.DisplayMember = "Text";
             dgMedecin.DataSource = db.Medecins.Select(a => new { a.IdU, a.NumeroOrdre, a.Identifiant, a.Specialite.NomSpecialite, a.NomPrenom, a.Tel, a.Email }).ToList();
@@ -102,24 +103,25 @@ namespace GestionRV.View
 
         }
 
-        private List<SelectListViewModel> LoadcbbSpecialite()
+         private List<SelectListViewModel> LoadCbbSpecialite()
         {
             var m = db.Specialites.ToList();
-            List<SelectListViewModel> liste = new List<SelectListViewModel>();
+            List<SelectListViewModel>  liste = new List<SelectListViewModel>();
             SelectListViewModel b = new SelectListViewModel();
-            b.Text = "Selectionner...";
-            b.Value = "";  
+            b.Text = "Selectionnez .......";
+            b.Value = "";
             liste.Add(b);
+            foreach (var c in m) {
 
-            foreach (var c in m)
-            {
                 SelectListViewModel a = new SelectListViewModel();
-                a.Text = c.NomSpecialite;
-                a.Text = c.IdSpecialite.ToString();
+                a.Text = c.NomSpecialite.ToString();
+                a.Value = c.IdSpecialite.ToString();
                 liste.Add(a);
             }
             return liste;
+
         }
+
 
         private void btnAgenda_Click(object sender, EventArgs e)
         {
