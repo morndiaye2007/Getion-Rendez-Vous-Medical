@@ -1,5 +1,5 @@
 ﻿using System.Web.Http;
-using ApiRvMedical.Models;
+
 using ApiRvMedical.Services;
 using APIRvMedical.Model;
 using APIRvMedical.Services;
@@ -42,7 +42,7 @@ namespace ApiRvMedical.Controllers
         public IHttpActionResult Update(int id, [FromBody] Patient patient)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
-            patient.Id = id;
+            
             _patientService.Update(patient);
             return Ok();
         }

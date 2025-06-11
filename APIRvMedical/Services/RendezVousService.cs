@@ -5,9 +5,8 @@ using System.Web;
 
 using System.Collections.Generic;
 using System.Linq;
-using ApiRvMedical.Data;
-using ApiRvMedical.Models;
 using APIRvMedical.Model;
+using GestionRV.Model;
 
 namespace ApiRvMedical.Services
 {
@@ -30,18 +29,7 @@ namespace ApiRvMedical.Services
             _context.SaveChanges();
         }
 
-        public void Update(RendezVous rdv)
-        {
-            var r = _context.RendezVous.Find(rdv.Id);
-            if (r != null)
-            {
-                r.AgendaId = rdv.AgendaId;
-                r.PatientId = rdv.PatientId;
-                r.Date = rdv.Date;
-                r.Heure = rdv.Heure;
-                _context.SaveChanges();
-            }
-        }
+        
 
         public void Delete(int id)
         {
@@ -53,13 +41,16 @@ namespace ApiRvMedical.Services
             }
         }
 
+      
+
+        public void Update(RendezVous rdv)
+        {
+            throw new NotImplementedException();
+        }
+
         public bool IsDisponible(int agendaId, string date, string heure)
         {
-            return !_context.RendezVous.Any(r =>
-                r.AgendaId == agendaId &&
-                r.Date == date &&
-                r.Heure == heure
-            );
+            throw new NotImplementedException();
         }
     }
 }
