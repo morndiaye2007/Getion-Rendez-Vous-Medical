@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\gestionrv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:APIRvMedical\\Controllers\\PatientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -101,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\gestionrv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -206,7 +214,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -225,21 +233,38 @@
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "APIRvMedical\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:14:09.222Z",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\App.config",
+              "RelativeDocumentMoniker": "GestionRV\\App.config",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\App.config*",
+              "RelativeToolTip": "GestionRV\\App.config*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-11T14:50:01.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "frmPatient.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs*",
+              "RelativeToolTip": "GestionRV\\View\\frmPatient.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:40:01.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RendezVousController.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\RendezVousController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\RendezVousController.cs",
@@ -252,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ClasseReportTicketRv.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\ClasseReportTicketRv.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\ClasseReportTicketRv.cs",
@@ -265,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\ValuesController.cs",
@@ -278,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmMedecin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmMedecin.cs",
@@ -290,12 +315,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MedecinController.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\MedecinController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\MedecinController.cs",
@@ -308,7 +329,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "frmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
+              "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
+              "RelativeToolTip": "GestionRV\\frmMDI.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwDsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:35:49.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:14:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IMedecinService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IMedecinService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IMedecinService.cs",
@@ -321,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\HomeController.cs",
@@ -334,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "MedecinService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\MedecinService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\MedecinService.cs",
@@ -346,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "IAgendaService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IAgendaService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IAgendaService.cs",
@@ -358,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "AgendaService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\AgendaService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\AgendaService.cs",
@@ -370,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IRendezVousService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IRendezVousService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IRendezVousService.cs",
@@ -382,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "RendezVousService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\RendezVousService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\RendezVousService.cs",
@@ -394,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "AgendaController.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\AgendaController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\AgendaController.cs",
@@ -406,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\PatientController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\PatientController.cs",
@@ -418,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "PatientService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\PatientService.cs",
@@ -430,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "IPatientService.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IPatientService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IPatientService.cs",
@@ -442,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Medecin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Medecin.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Medecin.cs",
@@ -454,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "RendezVous.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\RendezVous.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\RendezVous.cs",
@@ -466,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Secretaire.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Secretaire.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Secretaire.cs",
@@ -478,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Soin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Soin.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Soin.cs",
@@ -490,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\BdRvMedicalContext.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\BdRvMedicalContext.cs",
@@ -502,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Personne.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Personne.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Personne.cs",
@@ -514,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Patient.cs",
@@ -526,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Specialite.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Specialite.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Specialite.cs",
@@ -538,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Utilisateur.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Utilisateur.cs",
@@ -550,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Medecin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Medecin.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Medecin.cs",
@@ -562,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
               "RelativeDocumentMoniker": "APIRvMedical\\Web.config",
@@ -575,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "RendezVous.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\RendezVous.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\RendezVous.cs",
@@ -587,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Secretaire.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Secretaire.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Secretaire.cs",
@@ -599,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Utilisateur.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Utilisateur.cs",
@@ -611,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Personne.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Personne.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Personne.cs",
@@ -623,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "GroupeSanguin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\GroupeSanguin.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\GroupeSanguin.cs",
@@ -635,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Soin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Soin.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Soin.cs",
@@ -647,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Specialite.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Specialite.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Specialite.cs",
@@ -659,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Agenda.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Agenda.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Agenda.cs",
@@ -671,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Patient.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Patient.cs",
@@ -683,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "frmAgenda.cs [Design]",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmAgenda.cs",
@@ -694,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Agenda.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Agenda.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Agenda.cs",
@@ -706,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "GroupeSanguin.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\GroupeSanguin.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\GroupeSanguin.cs",
@@ -718,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ClasseReportTicketRv.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\ClasseReportTicketRv.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\ClasseReportTicketRv.cs",
@@ -730,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
@@ -742,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Program.cs",
               "RelativeDocumentMoniker": "GestionRV\\Program.cs",
@@ -754,19 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "frmMDI.cs",
-              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
-              "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",
-              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
-              "RelativeToolTip": "GestionRV\\frmMDI.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswFEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T12:35:49.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "frmMedecin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmMedecin.cs",
@@ -778,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "frmRendezVous.cs [Design]",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmRendezVous.cs",
@@ -789,19 +824,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "frmPatient.cs [Design]",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs",
               "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
-              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs [Design]",
-              "RelativeToolTip": "GestionRV\\View\\frmPatient.cs [Design]",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs [Design]*",
+              "RelativeToolTip": "GestionRV\\View\\frmPatient.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T13:18:54.53Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "GestionRV\\Form1.Designer.cs",
@@ -813,14 +848,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "frmMDI.cs [Design]",
               "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
               "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",
-              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs [Design]",
-              "RelativeToolTip": "..\\..\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs [Design]",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs [Design]",
+              "RelativeToolTip": "GestionRV\\frmMDI.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T12:25:02.568Z"
+              "WhenOpened": "2025-02-05T12:25:02.568Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
