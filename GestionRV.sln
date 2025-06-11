@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionRV", "GestionRV\Gest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVille", "..\AppVille\AppVille\AppVille.csproj", "{B4E94E2B-6453-433D-90D2-26493267AFDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRvMedical", "APIRvMedical\APIRvMedical.csproj", "{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{B4E94E2B-6453-433D-90D2-26493267AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E94E2B-6453-433D-90D2-26493267AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4E94E2B-6453-433D-90D2-26493267AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C167C3B-C5EB-453B-8DCC-5242F51B0598}
 	EndGlobalSection
 EndGlobal
