@@ -18,7 +18,9 @@ namespace APIRvMedical.Model
         public String HeureFin {  get; set; }
         public int Creneau { get; set; }
         public String Lieu { get; set; }
+        public String Jour { get; set; }
         public String Statut { get; set; }
+
         public int IdMedecin { get; set; }
         [ForeignKey("IdMedecin")]
         public Medecin Medecin { get; set; }

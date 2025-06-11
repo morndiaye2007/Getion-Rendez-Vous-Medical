@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using APIRvMedical.Model;
+using GestionRV.Model;
 
 namespace ApiRvMedical.Services
 {
@@ -17,24 +18,13 @@ namespace ApiRvMedical.Services
 
         public Medecin GetById(int id) => _context.Medecins.Find(id);
 
-        public void Create(Medecin medecin)
+        public void Create(Medecin m)
         {
-            _context.Medecins.Add(medecin);
+            _context.Medecins.Add(m);
             _context.SaveChanges();
         }
 
-        public void Update(Medecin medecin)
-        {
-            var m = _context.Medecins.Find(medecin.Id);
-            if (m != null)
-            {
-                m.Nom = medecin.Nom;
-                m.Prenom = medecin.Prenom;
-                m.SpecialiteId = medecin.SpecialiteId;
-                m.Telephone = medecin.Telephone;
-                _context.SaveChanges();
-            }
-        }
+        
 
         public void Delete(int id)
         {
@@ -44,6 +34,11 @@ namespace ApiRvMedical.Services
                 _context.Medecins.Remove(m);
                 _context.SaveChanges();
             }
+        }
+
+        public void Update(Medecin medecin)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

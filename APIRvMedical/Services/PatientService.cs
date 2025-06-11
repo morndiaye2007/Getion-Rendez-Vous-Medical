@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using APIRvMedical.Model;
+using GestionRV.Model;
 
 
 namespace APIRvMedical.Services
@@ -32,18 +33,7 @@ namespace APIRvMedical.Services
             _context.SaveChanges();
         }
 
-        public void Update(Patient patient)
-        {
-            var existing = _context.Patients.Find(patient.Id);
-            if (existing != null)
-            {
-                existing.Nom = patient.Nom;
-                existing.Prenom = patient.Prenom;
-                existing.Telephone = patient.Telephone;
-                existing.Email = patient.Email;
-                _context.SaveChanges();
-            }
-        }
+        
 
         public void Delete(int id)
         {
@@ -53,6 +43,11 @@ namespace APIRvMedical.Services
                 _context.Patients.Remove(patient);
                 _context.SaveChanges();
             }
+        }
+
+        public void Update(Patient patient)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -6,6 +6,7 @@ using System.Web;
 using System.Collections.Generic;
 using System.Linq;
 using APIRvMedical.Model;
+using GestionRV.Model;
 
 namespace ApiRvMedical.Services
 {
@@ -30,10 +31,10 @@ namespace ApiRvMedical.Services
 
         public void Update(Agenda agenda)
         {
-            var a = _context.Agendas.Find(agenda.Id);
+            var a = _context.Agendas.Find(agenda.IdAgenda);
             if (a != null)
             {
-                a.MedecinId = agenda.MedecinId;
+                a.IdMedecin = agenda.IdMedecin;
                 a.Jour = agenda.Jour;
                 a.HeureDebut = agenda.HeureDebut;
                 a.HeureFin = agenda.HeureFin;

@@ -224,6 +224,7 @@
     <Compile Include="Models\Agenda.cs" />
     <Compile Include="Models\BdRvMedicalContext.cs" />
     <Compile Include="Models\ClasseReportTicketRv.cs" />
+    <Compile Include="Models\DbContextOptions.cs" />
     <Compile Include="Models\GroupeSanguin.cs" />
     <Compile Include="Models\Medecin.cs" />
     <Compile Include="Models\Patient.cs" />
