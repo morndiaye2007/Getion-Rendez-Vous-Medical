@@ -1,4 +1,5 @@
-﻿using APIRvMedical.Model;
+﻿using APIRvMedical.DTOs;
+using APIRvMedical.Model;
 using GestionRV.Model;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -15,49 +16,95 @@ namespace APIRvMedical.Controllers
         // GET: api/medecin
         public IHttpActionResult GetMedecins()
         {
-            return Ok(db.Medecins.Include(m => m.Specialite).ToList());
+            var medecins = db.Medecins.Include(m => m.Specialite).ToList();
+
+            var dtoList = medecins.Select(m => new MedecinDto
+            {
+                IdU = m.IdU,
+                NomPrenom = m.NomPrenom,
+                Adresse = m.Adresse,
+                Email = m.Email,
+                Tel = m.Tel,
+                Identifiant = m.Identifiant,
+                MotDePasse = m.MotDePasse,
+                Statut = m.Statut,
+                NumeroOrdre = m.NumeroOrdre,
+                IdSpecialite = m.IdSpecialite,
+                SpecialiteNom = m.Specialite?.Nom
+            });
+
+            return Ok(dtoList);
         }
 
         // GET: api/medecin/5
         public IHttpActionResult GetMedecin(int id)
         {
-            var medecin = db.Medecins.Include(m => m.Specialite).FirstOrDefault(m => m.IdU == id);
-            if (medecin == null)
+            var m = db.Medecins.Include(x => x.Specialite).FirstOrDefault(x => x.IdU == id);
+            if (m == null)
                 return NotFound();
 
-            return Ok(medecin);
+            var dto = new MedecinDto
+            {
+                IdU = m.IdU,
+                NomPrenom = m.NomPrenom,
+                Adresse = m.Adresse,
+                Email = m.Email,
+                Tel = m.Tel,
+                Identifiant = m.Identifiant,
+                MotDePasse = m.MotDePasse,
+                Statut = m.Statut,
+                NumeroOrdre = m.NumeroOrdre,
+                IdSpecialite = m.IdSpecialite,
+                SpecialiteNom = m.Specialite?.Nom
+            };
+
+            return Ok(dto);
         }
 
         // POST: api/medecin
-        public IHttpActionResult PostMedecin([FromBody] Medecin medecin)
+        public IHttpActionResult PostMedecin([FromBody] MedecinDto dto)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            db.Medecins.Add(medecin);
+            var m = new Medecin
+            {
+                NomPrenom = dto.NomPrenom,
+                Adresse = dto.Adresse,
+                Email = dto.Email,
+                Tel = dto.Tel,
+                Identifiant = dto.Identifiant,
+                MotDePasse = dto.MotDePasse,
+                Statut = dto.Statut,
+                NumeroOrdre = dto.NumeroOrdre,
+                IdSpecialite = dto.IdSpecialite
+            };
+
+            db.Medecins.Add(m);
             db.SaveChanges();
 
-            return CreatedAtRoute("DefaultApi", new { id = medecin.IdU }, medecin);
+            dto.IdU = m.IdU;
+            return CreatedAtRoute("DefaultApi", new { id = m.IdU }, dto);
         }
 
         // PUT: api/medecin/5
-        public IHttpActionResult PutMedecin(int id, [FromBody] Medecin medecin)
+        public IHttpActionResult PutMedecin(int id, [FromBody] MedecinDto dto)
         {
-            var existing = db.Medecins.Find(id);
-            if (existing == null)
+            var m = db.Medecins.Find(id);
+            if (m == null)
                 return NotFound();
 
-            existing.NomPrenom = medecin.NomPrenom;
-            existing.Adresse = medecin.Adresse;
-            existing.Email = medecin.Email;
-            existing.Tel = medecin.Tel;
-            existing.Identifiant = medecin.Identifiant;
-            existing.MotDePasse = medecin.MotDePasse;
-            existing.Statut = medecin.Statut;
-            existing.NumeroOrdre = medecin.NumeroOrdre;
-            existing.IdSpecialite = medecin.IdSpecialite;
+            m.NomPrenom = dto.NomPrenom;
+            m.Adresse = dto.Adresse;
+            m.Email = dto.Email;
+            m.Tel = dto.Tel;
+            m.Identifiant = dto.Identifiant;
+            m.MotDePasse = dto.MotDePasse;
+            m.Statut = dto.Statut;
+            m.NumeroOrdre = dto.NumeroOrdre;
+            m.IdSpecialite = dto.IdSpecialite;
 
-            db.Entry(existing).State = EntityState.Modified;
+            db.Entry(m).State = EntityState.Modified;
             db.SaveChanges();
 
             return StatusCode(HttpStatusCode.NoContent);
@@ -66,14 +113,14 @@ namespace APIRvMedical.Controllers
         // DELETE: api/medecin/5
         public IHttpActionResult DeleteMedecin(int id)
         {
-            var medecin = db.Medecins.Find(id);
-            if (medecin == null)
+            var m = db.Medecins.Find(id);
+            if (m == null)
                 return NotFound();
 
-            db.Medecins.Remove(medecin);
+            db.Medecins.Remove(m);
             db.SaveChanges();
 
-            return Ok(medecin);
+            return Ok();
         }
     }
 }

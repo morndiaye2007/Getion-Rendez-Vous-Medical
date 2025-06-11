@@ -1,4 +1,5 @@
-﻿using APIRvMedical.Model;
+﻿using APIRvMedical.DTOs;
+using APIRvMedical.Model;
 using GestionRV.Model;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -15,46 +16,87 @@ namespace APIRvMedical.Controllers
         // GET: api/patient
         public IHttpActionResult GetPatients()
         {
-            return Ok(db.Patients.ToList());
+            var list = db.Patients.ToList();
+
+            var dtoList = list.Select(p => new PatientDto
+            {
+                IdU = p.IdU,
+                NomPrenom = p.NomPrenom,
+                Adresse = p.Adresse,
+                Email = p.Email,
+                Tel = p.Tel,
+                GroupeSanguin = p.GroupeSanguin,
+                Taille = p.taille,
+                Poids = p.Poids,
+                DateNaissance = p.DateNaissance
+            });
+
+            return Ok(dtoList);
         }
 
         // GET: api/patient/5
         public IHttpActionResult GetPatient(int id)
         {
-            var patient = db.Patients.Find(id);
-            if (patient == null)
+            var p = db.Patients.Find(id);
+            if (p == null)
                 return NotFound();
 
-            return Ok(patient);
+            var dto = new PatientDto
+            {
+                IdU = p.IdU,
+                NomPrenom = p.NomPrenom,
+                Adresse = p.Adresse,
+                Email = p.Email,
+                Tel = p.Tel,
+                GroupeSanguin = p.GroupeSanguin,
+                Taille = p.taille,
+                Poids = p.Poids,
+                DateNaissance = p.DateNaissance
+            };
+
+            return Ok(dto);
         }
 
         // POST: api/patient
-        public IHttpActionResult PostPatient([FromBody] Patient patient)
+        public IHttpActionResult PostPatient([FromBody] PatientDto dto)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            db.Patients.Add(patient);
+            var p = new Patient
+            {
+                NomPrenom = dto.NomPrenom,
+                Adresse = dto.Adresse,
+                Email = dto.Email,
+                Tel = dto.Tel,
+                GroupeSanguin = dto.GroupeSanguin,
+                taille = dto.Taille,
+                Poids = dto.Poids,
+                DateNaissance = dto.DateNaissance
+            };
+
+            db.Patients.Add(p);
             db.SaveChanges();
 
-            return CreatedAtRoute("DefaultApi", new { id = patient.IdU }, patient);
+            dto.IdU = p.IdU; // met à jour le dto avec l’ID généré
+            return CreatedAtRoute("DefaultApi", new { id = dto.IdU }, dto);
         }
 
         // PUT: api/patient/5
-        public IHttpActionResult PutPatient(int id, [FromBody] Patient patient)
+        public IHttpActionResult PutPatient(int id, [FromBody] PatientDto dto)
         {
             var existing = db.Patients.Find(id);
             if (existing == null)
                 return NotFound();
 
-            existing.NomPrenom = patient.NomPrenom;
-            existing.Adresse = patient.Adresse;
-            existing.Email = patient.Email;
-            existing.Tel = patient.Tel;
-            existing.GroupeSanguin = patient.GroupeSanguin;
-            existing.taille = patient.taille;
-            existing.Poids = patient.Poids;
-            existing.DateNaissance = patient.DateNaissance;
+            existing.NomPrenom = dto.NomPrenom;
+            existing.Adresse = dto.Adresse;
+            existing.Email = dto.Email;
+            existing.Tel = dto.Tel;
+            existing.GroupeSanguin = dto.GroupeSanguin;
+            existing.taille = dto.Taille;
+            existing.Poids = dto.Poids;
+            existing.DateNaissance = dto.DateNaissance;
 
             db.Entry(existing).State = EntityState.Modified;
             db.SaveChanges();
@@ -65,14 +107,14 @@ namespace APIRvMedical.Controllers
         // DELETE: api/patient/5
         public IHttpActionResult DeletePatient(int id)
         {
-            var patient = db.Patients.Find(id);
-            if (patient == null)
+            var p = db.Patients.Find(id);
+            if (p == null)
                 return NotFound();
 
-            db.Patients.Remove(patient);
+            db.Patients.Remove(p);
             db.SaveChanges();
 
-            return Ok(patient);
+            return Ok();
         }
     }
 }
