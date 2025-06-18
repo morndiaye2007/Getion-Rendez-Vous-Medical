@@ -16,5 +16,10 @@ namespace GestionRV.View
         {
             InitializeComponent();
         }
+
+        private void dgPatient_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
