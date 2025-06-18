@@ -28,5 +28,10 @@ namespace GestionRV
         {
             Application.Exit();
         }
+
+        private void frmConnexion_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

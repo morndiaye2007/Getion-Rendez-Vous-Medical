@@ -4,10 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionRV", "GestionRV\GestionRV.csproj", "{6228A063-6306-4723-8CE9-BD89ADC59FBD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A852B0CB-1F03-4F20-8812-B655BC54F254} = {A852B0CB-1F03-4F20-8812-B655BC54F254}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVille", "..\AppVille\AppVille\AppVille.csproj", "{B4E94E2B-6453-433D-90D2-26493267AFDB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRvMedical", "APIRvMedical\APIRvMedical.csproj", "{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceRdv", "WcfServiceRdv\WcfServiceRdv.csproj", "{A852B0CB-1F03-4F20-8812-B655BC54F254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +32,10 @@ Global
 		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A852B0CB-1F03-4F20-8812-B655BC54F254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A852B0CB-1F03-4F20-8812-B655BC54F254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A852B0CB-1F03-4F20-8812-B655BC54F254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A852B0CB-1F03-4F20-8812-B655BC54F254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

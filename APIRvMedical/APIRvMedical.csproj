@@ -218,6 +218,13 @@
     <Compile Include="Controllers\PatientController.cs" />
     <Compile Include="Controllers\RendezVousController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="dtos\AgendaDto.cs" />
+    <Compile Include="dtos\MedecinDto.cs" />
+    <Compile Include="dtos\PatientDto.cs" />
+    <Compile Include="dtos\RendezVousDto.cs" />
+    <Compile Include="dtos\SecretaireDto.cs" />
+    <Compile Include="dtos\SpecialiteDto.cs" />
+    <Compile Include="dtos\UtilisateurDto.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
