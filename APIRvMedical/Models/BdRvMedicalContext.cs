@@ -13,7 +13,7 @@ namespace GestionRV.Model
     [DbConfigurationType(typeof(MySqlConfiguration))]
     public class BdRvMedicalContext:DbContext
     {
-        public BdRvMedicalContext() :base("bdRvMedicalContext")
+        public BdRvMedicalContext() :base("bdRvMedicalApi")
         { }
         public DbSet<Personne> Personnees { get; set; }
         public DbSet<Patient> Patients { get; set; }    

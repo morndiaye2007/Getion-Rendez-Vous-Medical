@@ -12,5 +12,8 @@ namespace APIRvMedical.Model
     {
         [Key]
         public int Idsoin {  get; set; }
+        public string Nom { get; set; }
+        public string Description { get; set; }
+        public decimal Prix { get; set; }
     }
 }

@@ -33,7 +33,7 @@ namespace AppGestionRdv.Service
         List<Agenda> GetListeAgenda();
 
         [OperationContract]
-        Medcin GetMedecinById(int id);
+        Medecin GetMedecinById(int id);
 
         [OperationContract]
         bool DeleteAgenda(int id);

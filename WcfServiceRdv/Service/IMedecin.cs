@@ -26,13 +26,13 @@ namespace WcfServiceRdv.Service
         /// <returns></returns>
 
         [OperationContract]
-        List<Medcin> GetAllMedecins();
+        List<Medecin> GetAllMedecins();
 
         [OperationContract]
-        bool UpdateMedecin(Medcin medcin);
+        bool UpdateMedecin(Medecin medcin);
 
         [OperationContract]
-        bool AddMedecin(Medcin medcin);
+        bool AddMedecin(Medecin medcin);
 
         
 
@@ -40,7 +40,7 @@ namespace WcfServiceRdv.Service
         bool DeleteMedcin(int id);
 
         [OperationContract]
-        Medcin GetMedcinById(int id);
+        Medecin GetMedcinById(int id);
 
         [OperationContract]
         List<Specialite> GetListeSpecialites();

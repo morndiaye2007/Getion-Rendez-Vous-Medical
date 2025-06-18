@@ -7,7 +7,7 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 using WcfServiceRdv.Models;
-using AppGestionRdv.Helper;
+
 using WcfServiceRdv.Helper;
 using System.IO;
 
@@ -29,13 +29,13 @@ namespace WcfServiceRdv.Service
         /// Récupère la liste de tous les médecins avec leur spécialité.
         /// </summary>
         /// <returns>Liste des médecins</returns>
-        public List<Medcin> GetAllMedecins()
+        public List<Medecin> GetAllMedecins()
         {
 
             try
             {
                
-                return db.Medcin.Include(m => m.Specialite).ToList();
+                return db.Medecins.Include(m => m.Specialites).ToList();
             }
             catch (Exception ex)
             {
@@ -51,11 +51,11 @@ namespace WcfServiceRdv.Service
         /// </summary>
         /// <param name="medcin">Objet Medcin à ajouter</param>
         /// <returns>True si l'ajout réussit, sinon False</returns>
-        public bool AddMedecin(Medcin medcin)
+        public bool AddMedecin(Medecin medecin)
         {
             try
             {
-                db.Medcin.Add(medcin);
+                db.Medecins.Add(medecin);
                 db.SaveChanges();
                 return true;
             }
@@ -72,7 +72,7 @@ namespace WcfServiceRdv.Service
         /// <param name="medcin">Objet Medcin modifié</param>
         /// <returns>True si la mise à jour réussit, sinon False</returns>
 
-        public bool UpdateMedecin(Medcin medcin)
+        public bool UpdateMedecin(Medecin medcin)
         {
 
             try
@@ -98,10 +98,10 @@ namespace WcfServiceRdv.Service
         {
             try
             {
-                var medcin = db.Medcin.Find(id);
+                var medcin = db.Medecins.Find(id);
                 if (medcin != null)
                 {
-                    db.Medcin.Remove(medcin);
+                    db.Medecins.Remove(medcin);
                     db.SaveChanges();
                     return true;
                 }
@@ -118,10 +118,10 @@ namespace WcfServiceRdv.Service
         /// </summary>
         /// <param name="id">ID du médecin</param>
         /// <returns>Objet Medcin ou null si non trouvé</returns>
-        public Medcin GetMedcinById(int id)
+        public Medecin GetMedcinById(int id)
         {
           
-            return db.Medcin.Find(id);
+            return db.Medecins.Find(id);
         }
 
 
@@ -132,7 +132,7 @@ namespace WcfServiceRdv.Service
         public List<Specialite> GetListeSpecialites()
         {
 
-            return db.Specialite.ToList();
+            return db.Specialites.ToList();
 
         }
 
@@ -140,12 +140,12 @@ namespace WcfServiceRdv.Service
         /// Récupère la liste de tous les rôles disponibles dans le système.
         /// </summary>
         /// <returns>Liste des rôles</returns>
-        public List<Role> GetListeRoles()
-        {
+        //public List<Role> GetListeRoles()
+        //{
 
-            return db.roles.ToList();
+        //    return db.roles.ToList();
 
-        }
+        //}
 
         /// <summary>
         /// Recherche une spécialité par son identifiant.
@@ -155,7 +155,7 @@ namespace WcfServiceRdv.Service
         public Specialite GetSpecialiteById(int id)
         {
 
-            return db.Specialite.Find(id);
+            return db.Specialites.Find(id);
 
         }
     }
