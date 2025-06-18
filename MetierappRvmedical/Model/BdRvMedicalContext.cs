@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
-using MySql.Data.EntityFramework;
-using GestionRV.View;
+using MySql.Data.Entity;  // ✔️ Correct pour la version 6.9.12
+
 
 namespace MetierappRvmedical.Model
 {
