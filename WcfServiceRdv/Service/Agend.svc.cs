@@ -6,15 +6,16 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
-using GestionRV.Model;
-using GestionRV.Helper;
+
 using WcfServiceRdv.Helper;
+
+using WcfServiceRdv.Models;
 
 namespace WcfServiceRdv.Service
 {
     // REMARQUE : vous pouvez utiliser la commande Renommer du menu Refactoriser pour changer le nom de classe "Agend" à la fois dans le code, le fichier svc et le fichier de configuration.
     // REMARQUE : pour lancer le client test WCF afin de tester ce service, sélectionnez Agend.svc ou Agend.svc.cs dans l'Explorateur de solutions et démarrez le débogage.
-    public class Agend : IAgend
+    public class Agend : Agenda
     {
         public void DoWork()
         {
@@ -82,9 +83,9 @@ namespace WcfServiceRdv.Service
         /// </summary>
         /// <param name="id">Identifiant du médecin</param>
         /// <returns>Objet Medcin correspondant ou null</returns>
-        public Medcin GetMedecinById(int id)
+        public Medecin GetMedecinById(int id)
         {
-            return db.Medcin.Find(id);
+            return db.Medecin.Find(id);
 
         }
 
@@ -126,7 +127,7 @@ namespace WcfServiceRdv.Service
         public List<Agenda> GetAgendaByMedecin(int idMedecin)
         {
             return db.Agenda
-                     .Include(a => a.Medcin)
+                     .Include(a => a.Medecin)
                      .Where(a => a.IdMedcin == idMedecin)
                      .ToList();
         }
