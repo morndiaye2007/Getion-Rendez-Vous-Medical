@@ -7,8 +7,7 @@ using System.Data.Entity;
 using MySql.Data.EntityFramework;
 using GestionRV.View;
 
-namespace  MetierappRvmedical.Model
-.Model
+namespace MetierappRvmedical.Model
 {
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
     public class BdRvMedicalContext:DbContext

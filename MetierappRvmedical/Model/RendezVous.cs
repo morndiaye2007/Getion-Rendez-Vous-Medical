@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GestionRV.Model
+namespace MetierappRvmedical.Model
 {
     public class RendezVous
     {

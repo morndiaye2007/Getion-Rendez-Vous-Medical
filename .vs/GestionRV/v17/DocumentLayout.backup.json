@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\groupesanguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\groupesanguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\model\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\model\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\gestionrv\\model\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|c:\\users\\lbc\\getion-rendez-vous-medical\\metierapprvmedical\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D039B-9F79-4E9A-B714-004266F51C33}|MetierappRvmedical\\MetierappRvmedical.csproj|solutionrelative:metierapprvmedical\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +66,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Utilisateur.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Utilisateur.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:31:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Specialite.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Specialite.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Specialite.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Specialite.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Specialite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:31:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Soin.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Soin.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Soin.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Soin.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Soin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:31:14.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Secretaire.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Secretaire.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Secretaire.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Secretaire.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Secretaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:31:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\RendezVous.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\RendezVous.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\RendezVous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:30:48.659Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,6 +148,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Personne.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Personne.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Personne.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:30:02.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Patient.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Patient.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Patient.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:29:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Medecin.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Medecin.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Medecin.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Medecin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:29:25.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupeSanguin.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\GroupeSanguin.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\GroupeSanguin.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\GroupeSanguin.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\GroupeSanguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:27:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BdRvMedicalContext.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\BdRvMedicalContext.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\BdRvMedicalContext.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\BdRvMedicalContext.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\BdRvMedicalContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:26:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Agenda.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Model\\Agenda.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Model\\Agenda.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Model\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:26:16.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Agenda.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Model\\Agenda.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Agenda.cs",
+              "RelativeToolTip": "GestionRV\\Model\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:23:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\IService1.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\IService1.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\IService1.cs",
+              "RelativeToolTip": "MetierappRvmedical\\IService1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:18:18.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "MetierappRvmedical\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\LBC\\Getion-Rendez-Vous-Medical\\MetierappRvmedical\\Service1.svc.cs",
+              "RelativeToolTip": "MetierappRvmedical\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:17:17.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
