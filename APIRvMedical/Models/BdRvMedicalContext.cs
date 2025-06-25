@@ -21,7 +21,7 @@ namespace GestionRV.Model
         public DbSet<Utilisateur> Utilisateur { get;set; }
         public DbSet<Medecin> Medecins { get; set; }
         public DbSet<Secretaire> Secretaires { get; set; }
-        public DbSet<Agenda> Agenda { get; set; }
+       // public DbSet<Agenda> Agenda { get; set; }
         public DbSet<RendezVous> RendezVous { get; set; }
         public DbSet<Specialite> Specialites { get; set; }
         public DbSet<GroupeSanguin> GroupeSanguins { get; set; }

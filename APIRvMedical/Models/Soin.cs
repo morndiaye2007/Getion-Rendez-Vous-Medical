@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace APIRvMedical.Model
 {
+    [Table("soin")]
     public class Soin
     {
         [Key]
