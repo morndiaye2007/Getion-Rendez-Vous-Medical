@@ -9,8 +9,9 @@ using APIRvMedical.Model;
 using MySql.Data.MySqlClient;
 
 namespace GestionRV.Model
+
 {
-    [DbConfigurationType(typeof(MySqlConfiguration))]
+    [DbConfigurationType(typeof(APIRvMedical.MySqlEFConfiguration))]
     public class BdRvMedicalContext:DbContext
     {
         public BdRvMedicalContext() :base("bdRvMedicalApi")
@@ -25,8 +26,10 @@ namespace GestionRV.Model
         public DbSet<Specialite> Specialites { get; set; }
         public DbSet<GroupeSanguin> GroupeSanguins { get; set; }
         public DbSet<Agenda> Agendas { get; set; }
+        public DbSet<Soin> Soins { get; set; }
 
-        
+
+
 
     }
 }
