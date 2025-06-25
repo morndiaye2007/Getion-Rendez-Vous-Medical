@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\soinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -276,7 +276,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -284,33 +284,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
               "RelativeDocumentMoniker": "APIRvMedical\\Web.config",
               "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
               "RelativeToolTip": "APIRvMedical\\Web.config",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-06-11T19:02:11.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Soin.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Soin.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Soin.cs",
-              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Soin.cs",
-              "RelativeToolTip": "APIRvMedical\\Models\\Soin.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Soin.cs*",
+              "RelativeToolTip": "APIRvMedical\\Models\\Soin.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T18:57:47.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MySqlEFConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\MySqlEFConfiguration.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\MySqlEFConfiguration.cs",
@@ -318,38 +318,37 @@
               "RelativeToolTip": "APIRvMedical\\MySqlEFConfiguration.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:21:14.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T20:21:14.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "SoinsController.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SoinsController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\SoinsController.cs",
               "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SoinsController.cs",
               "RelativeToolTip": "APIRvMedical\\Controllers\\SoinsController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAADwv0oAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T19:12:57.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
               "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
               "RelativeToolTip": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T19:06:21.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbContextOptions.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\DbContextOptions.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\DbContextOptions.cs",
@@ -370,8 +369,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\IAgend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:57:01.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:57:01.247Z"
             },
             {
               "$type": "Document",
@@ -395,8 +393,7 @@
               "RelativeToolTip": "APIRvMedical\\Models\\Agenda.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:06:16.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T19:06:16.258Z"
             },
             {
               "$type": "Document",
@@ -408,8 +405,7 @@
               "RelativeToolTip": "APIRvMedical\\Models\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:06:28.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T19:06:28.391Z"
             },
             {
               "$type": "Document",
@@ -421,8 +417,7 @@
               "RelativeToolTip": "APIRvMedical\\Controllers\\RendezVousController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T18:38:55.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T18:38:55.452Z"
             },
             {
               "$type": "Document",
@@ -434,8 +429,7 @@
               "RelativeToolTip": "APIRvMedical\\Models\\GroupeSanguin.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:06:34.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T19:06:34.518Z"
             },
             {
               "$type": "Document",
@@ -447,8 +441,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Helper\\Utils.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:05:30.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T18:05:30.831Z"
             },
             {
               "$type": "Document",
@@ -460,8 +453,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Helper\\GMailer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:05:15.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T18:05:15.701Z"
             },
             {
               "$type": "Document",
@@ -473,8 +465,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\Agend.svc.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAADgv1cAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:54:14.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:54:14.253Z"
             },
             {
               "$type": "Document",
@@ -486,8 +477,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\Medecin.svc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:58:34.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:58:34.126Z"
             },
             {
               "$type": "Document",
@@ -499,8 +489,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Medecin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:59:49.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:59:49.33Z"
             },
             {
               "$type": "Document",
@@ -525,8 +514,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Helper\\CryptString.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:55.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T18:04:55.299Z"
             },
             {
               "$type": "Document",
@@ -538,8 +526,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\BdRvMedicalContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:58:54.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:58:54.826Z"
             },
             {
               "$type": "Document",
@@ -551,8 +538,7 @@
               "RelativeToolTip": "GestionRV\\Helper\\GMailer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:25.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T18:04:25.66Z"
             },
             {
               "$type": "Document",
@@ -564,8 +550,7 @@
               "RelativeToolTip": "GestionRV\\Helper\\CryptString.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:16.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T18:04:16.291Z"
             },
             {
               "$type": "Document",
@@ -577,8 +562,7 @@
               "RelativeToolTip": "GestionRV\\Helper\\Utils.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAmwCEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:41.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T18:04:41.288Z"
             },
             {
               "$type": "Document",
@@ -590,8 +574,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\Patients.svc.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:58:54.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:58:54.641Z"
             },
             {
               "$type": "Document",
@@ -603,8 +586,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\IPatients.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:58:12.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:58:12.848Z"
             },
             {
               "$type": "Document",
@@ -616,8 +598,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\IMedecin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:57:49.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:57:49.795Z"
             },
             {
               "$type": "Document",
@@ -629,8 +610,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\Iappointment.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAcwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:57:33.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:57:33.037Z"
             },
             {
               "$type": "Document",
@@ -642,8 +622,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Agenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:58:24.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:58:24.791Z"
             },
             {
               "$type": "Document",
@@ -655,8 +634,7 @@
               "RelativeToolTip": "WcfServiceRdv\\IService1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:59:27.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:59:27.27Z"
             },
             {
               "$type": "Document",
@@ -668,8 +646,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\appointment.svc.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:56:04.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:56:04.507Z"
             },
             {
               "$type": "Document",
@@ -693,8 +670,7 @@
               "RelativeToolTip": "GestionRV\\Model\\Agenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:39:41.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T16:39:41.122Z"
             },
             {
               "$type": "Document",
@@ -706,8 +682,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Migrations\\202506181506387_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:06:41.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:06:41.761Z"
             },
             {
               "$type": "Document",
@@ -719,8 +694,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:04:31.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:04:31.356Z"
             },
             {
               "$type": "Document",
@@ -732,8 +706,7 @@
               "RelativeToolTip": "GestionRV\\Model\\BdRvMedicalContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:08:46.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:08:46.505Z"
             },
             {
               "$type": "Document",
@@ -745,8 +718,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\DbContextOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:47:42.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:47:42.923Z"
             },
             {
               "$type": "Document",
@@ -758,8 +730,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Personne.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:00:08.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:00:08.075Z"
             },
             {
               "$type": "Document",
@@ -771,8 +742,7 @@
               "RelativeToolTip": "GestionRV\\Model\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:11:01.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:11:01.063Z"
             },
             {
               "$type": "Document",
@@ -784,8 +754,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\GroupeSanguin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:59:41.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:59:41.119Z"
             },
             {
               "$type": "Document",
@@ -797,8 +766,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:59:10.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:59:10.946Z"
             },
             {
               "$type": "Document",
@@ -810,8 +778,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:59:59.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:59:59.425Z"
             },
             {
               "$type": "Document",
@@ -823,8 +790,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\RendezVous.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:00:16.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:00:16.402Z"
             },
             {
               "$type": "Document",
@@ -836,8 +802,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Secretaire.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:00:24.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:00:24.241Z"
             },
             {
               "$type": "Document",
@@ -849,8 +814,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Specialite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:00:39.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:00:39.016Z"
             },
             {
               "$type": "Document",
@@ -862,8 +826,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Soin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:00:30.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:00:30.683Z"
             },
             {
               "$type": "Document",
@@ -875,8 +838,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\Utilisateur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:00:45.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:00:45.478Z"
             },
             {
               "$type": "Document",
@@ -888,8 +850,7 @@
               "RelativeToolTip": "GestionRV\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-18T01:48:02.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:48:02.883Z"
             },
             {
               "$type": "Document",
@@ -901,8 +862,7 @@
               "RelativeToolTip": "GestionRV\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:47:57.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:47:57.526Z"
             },
             {
               "$type": "Document",
@@ -914,8 +874,7 @@
               "RelativeToolTip": "GestionRV\\packages.config",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-18T01:47:52.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:47:52.923Z"
             },
             {
               "$type": "Document",
@@ -927,8 +886,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\RendezVousService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:43.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:43.736Z"
             },
             {
               "$type": "Document",
@@ -940,8 +898,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\PatientController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:34.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:34.036Z"
             },
             {
               "$type": "Document",
@@ -953,8 +910,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\MedecinService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:27.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:27.067Z"
             },
             {
               "$type": "Document",
@@ -966,8 +922,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IRendezVousService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:21.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:21.888Z"
             },
             {
               "$type": "Document",
@@ -979,8 +934,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IPatientService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:16.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:16.785Z"
             },
             {
               "$type": "Document",
@@ -992,8 +946,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IMedecinService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:13.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:13.189Z"
             },
             {
               "$type": "Document",
@@ -1005,8 +958,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\PatientService.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:10:05.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:10:05.756Z"
             },
             {
               "$type": "Document",
@@ -1018,8 +970,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IAgendaService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:07.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:07.834Z"
             },
             {
               "$type": "Document",
@@ -1031,8 +982,7 @@
               "RelativeToolTip": "APIRvMedical\\Services\\AgendaService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:02.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:42:02.499Z"
             },
             {
               "$type": "Document",
@@ -1044,8 +994,7 @@
               "RelativeToolTip": "WcfServiceRdv\\Service1.svc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:38:27.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:38:27.916Z"
             },
             {
               "$type": "Document",
@@ -1057,8 +1006,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\SecretaireDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:29:39.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:29:39.731Z"
             },
             {
               "$type": "Document",
@@ -1070,8 +1018,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\SpecialiteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:29:16.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:29:16.186Z"
             },
             {
               "$type": "Document",
@@ -1083,8 +1030,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\UtilisateurDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:28:46.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:28:46.816Z"
             },
             {
               "$type": "Document",
@@ -1096,8 +1042,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\PatientDto.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:28:22.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:28:22.622Z"
             },
             {
               "$type": "Document",
@@ -1109,8 +1054,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\MedecinDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:27:36.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:27:36.417Z"
             },
             {
               "$type": "Document",
@@ -1122,8 +1066,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\RendezVousDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:27:08.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:27:08.768Z"
             },
             {
               "$type": "Document",
@@ -1135,8 +1078,7 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\AgendaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:26:43.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T19:26:43.432Z"
             },
             {
               "$type": "Document",
@@ -1148,8 +1090,7 @@
               "RelativeToolTip": "APIRvMedical\\Controllers\\ValuesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T18:38:42.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T18:38:42.928Z"
             }
           ]
         }
