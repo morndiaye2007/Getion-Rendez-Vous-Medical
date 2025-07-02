@@ -1,7 +1,5 @@
 ﻿using APIRvMedical.Model;
 using GestionRV.Model;
-using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
@@ -14,6 +12,7 @@ namespace APIRvMedical.Controllers
         private BdRvMedicalContext db = new BdRvMedicalContext();
 
         // GET: api/rendezvous
+        [HttpGet]
         public IHttpActionResult GetRendezVous()
         {
             var rendezVousList = db.RendezVous
@@ -21,10 +20,12 @@ namespace APIRvMedical.Controllers
                                    .Include(r => r.Medecin)
                                    .Include(r => r.Soin)
                                    .ToList();
+
             return Ok(rendezVousList);
         }
 
         // GET: api/rendezvous/5
+        [HttpGet]
         public IHttpActionResult GetRendezVous(int id)
         {
             var rendezVous = db.RendezVous
@@ -40,6 +41,7 @@ namespace APIRvMedical.Controllers
         }
 
         // POST: api/rendezvous
+        [HttpPost]
         public IHttpActionResult PostRendezVous([FromBody] RendezVous rv)
         {
             if (!ModelState.IsValid)
@@ -52,6 +54,7 @@ namespace APIRvMedical.Controllers
         }
 
         // PUT: api/rendezvous/5
+        [HttpPut]
         public IHttpActionResult PutRendezVous(int id, [FromBody] RendezVous rv)
         {
             if (!ModelState.IsValid)
@@ -61,7 +64,6 @@ namespace APIRvMedical.Controllers
             if (existingRv == null)
                 return NotFound();
 
-            // Mise à jour des champs
             existingRv.DateRv = rv.DateRv;
             existingRv.Statut = rv.Statut;
             existingRv.IdMedecin = rv.IdMedecin;
@@ -75,6 +77,7 @@ namespace APIRvMedical.Controllers
         }
 
         // DELETE: api/rendezvous/5
+        [HttpDelete]
         public IHttpActionResult DeleteRendezVous(int id)
         {
             var rv = db.RendezVous.Find(id);
@@ -85,6 +88,14 @@ namespace APIRvMedical.Controllers
             db.SaveChanges();
 
             return Ok(rv);
+        }
+
+        // Bonne pratique : Libérer le contexte
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+                db.Dispose();
+            base.Dispose(disposing);
         }
     }
 }
