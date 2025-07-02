@@ -183,6 +183,7 @@
     <Content Include="Service\appointment.svc" />
     <Content Include="Service\Medecin.svc" />
     <Content Include="Service\Patients.svc" />
+    <Content Include="Service\RoleService.svc" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -203,6 +204,7 @@
     <Compile Include="Models\Patient.cs" />
     <Compile Include="Models\Personne.cs" />
     <Compile Include="Models\RendezVous.cs" />
+    <Compile Include="Models\Role.cs" />
     <Compile Include="Models\Secretaire.cs" />
     <Compile Include="Models\Soin.cs" />
     <Compile Include="Models\Specialite.cs" />
@@ -222,6 +224,7 @@
     <Compile Include="Service\Iappointment.cs" />
     <Compile Include="Service\IMedecin.cs" />
     <Compile Include="Service\IPatients.cs" />
+    <Compile Include="Service\IRoleService.cs" />
     <Compile Include="Service\Medecin.svc.cs">
       <DependentUpon>Medecin.svc</DependentUpon>
     </Compile>

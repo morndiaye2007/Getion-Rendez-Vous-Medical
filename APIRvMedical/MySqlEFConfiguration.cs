@@ -9,7 +9,10 @@ namespace APIRvMedical
     {
         public MySqlEFConfiguration()
         {
-            SetDefaultConnectionFactory(new MySqlConnectionFactory());
+            SetMigrationSqlGenerator(
+                MySqlProviderInvariantName.ProviderName,
+                () => new MySqlMigrationSqlGenerator()
+            );
         }
     }
 }

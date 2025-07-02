@@ -33,23 +33,19 @@
             this.btnSupprimer = new System.Windows.Forms.Button();
             this.btnModifier = new System.Windows.Forms.Button();
             this.btnAjouter = new System.Windows.Forms.Button();
-            this.txtNumeroOrdreMedecin = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.txtSpecialite = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtIdentifiant = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.txtTel = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.txtAdresse = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtNomPrenom = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.dgPatient = new System.Windows.Forms.DataGridView();
+            this.dgRendezVous = new System.Windows.Forms.DataGridView();
             this.btnClose = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dgPatient)).BeginInit();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.cbbPatient = new System.Windows.Forms.ComboBox();
+            this.cbbMedecin = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.cbbSoin = new System.Windows.Forms.ComboBox();
+            ((System.ComponentModel.ISupportInitialize)(this.dgRendezVous)).BeginInit();
             this.SuspendLayout();
             // 
             // btnAgenda
@@ -74,7 +70,7 @@
             // 
             // btnSupprimer
             // 
-            this.btnSupprimer.Location = new System.Drawing.Point(316, 670);
+            this.btnSupprimer.Location = new System.Drawing.Point(316, 549);
             this.btnSupprimer.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSupprimer.Name = "btnSupprimer";
             this.btnSupprimer.Size = new System.Drawing.Size(107, 32);
@@ -84,7 +80,7 @@
             // 
             // btnModifier
             // 
-            this.btnModifier.Location = new System.Drawing.Point(186, 670);
+            this.btnModifier.Location = new System.Drawing.Point(186, 549);
             this.btnModifier.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnModifier.Name = "btnModifier";
             this.btnModifier.Size = new System.Drawing.Size(74, 32);
@@ -94,81 +90,33 @@
             // 
             // btnAjouter
             // 
-            this.btnAjouter.Location = new System.Drawing.Point(55, 670);
+            this.btnAjouter.Location = new System.Drawing.Point(55, 549);
             this.btnAjouter.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnAjouter.Name = "btnAjouter";
             this.btnAjouter.Size = new System.Drawing.Size(72, 32);
             this.btnAjouter.TabIndex = 46;
             this.btnAjouter.Text = "Ajouter";
             this.btnAjouter.UseVisualStyleBackColor = true;
-            // 
-            // txtNumeroOrdreMedecin
-            // 
-            this.txtNumeroOrdreMedecin.Location = new System.Drawing.Point(52, 610);
-            this.txtNumeroOrdreMedecin.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtNumeroOrdreMedecin.Name = "txtNumeroOrdreMedecin";
-            this.txtNumeroOrdreMedecin.Size = new System.Drawing.Size(186, 26);
-            this.txtNumeroOrdreMedecin.TabIndex = 45;
+            this.btnAjouter.Click += new System.EventHandler(this.btnAjouter_Click);
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(52, 571);
+            this.label7.Location = new System.Drawing.Point(52, 450);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(170, 20);
+            this.label7.Size = new System.Drawing.Size(71, 20);
             this.label7.TabIndex = 53;
-            this.label7.Text = "Numero ordre medecin";
-            // 
-            // txtSpecialite
-            // 
-            this.txtSpecialite.Location = new System.Drawing.Point(52, 525);
-            this.txtSpecialite.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtSpecialite.Name = "txtSpecialite";
-            this.txtSpecialite.Size = new System.Drawing.Size(186, 26);
-            this.txtSpecialite.TabIndex = 43;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(52, 486);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(78, 20);
-            this.label6.TabIndex = 52;
-            this.label6.Text = "Specialite";
-            // 
-            // txtIdentifiant
-            // 
-            this.txtIdentifiant.Location = new System.Drawing.Point(52, 440);
-            this.txtIdentifiant.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtIdentifiant.Name = "txtIdentifiant";
-            this.txtIdentifiant.Size = new System.Drawing.Size(186, 26);
-            this.txtIdentifiant.TabIndex = 42;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(52, 401);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(80, 20);
-            this.label5.TabIndex = 50;
-            this.label5.Text = "Identifiant";
-            // 
-            // txtTel
-            // 
-            this.txtTel.Location = new System.Drawing.Point(52, 355);
-            this.txtTel.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtTel.Name = "txtTel";
-            this.txtTel.Size = new System.Drawing.Size(186, 26);
-            this.txtTel.TabIndex = 41;
+            this.label7.Text = "Date RV";
+            //this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(52, 316);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(84, 20);
+            this.label4.Size = new System.Drawing.Size(41, 20);
             this.label4.TabIndex = 47;
-            this.label4.Text = "Telephone";
+            this.label4.Text = "Soin";
             // 
             // txtEmail
             // 
@@ -187,51 +135,26 @@
             this.label3.TabIndex = 44;
             this.label3.Text = "Email";
             // 
-            // txtAdresse
-            // 
-            this.txtAdresse.Location = new System.Drawing.Point(52, 185);
-            this.txtAdresse.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtAdresse.Name = "txtAdresse";
-            this.txtAdresse.Size = new System.Drawing.Size(186, 26);
-            this.txtAdresse.TabIndex = 38;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(52, 146);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(68, 20);
-            this.label2.TabIndex = 40;
-            this.label2.Text = "Adresse";
-            // 
-            // txtNomPrenom
-            // 
-            this.txtNomPrenom.Location = new System.Drawing.Point(52, 100);
-            this.txtNomPrenom.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtNomPrenom.Name = "txtNomPrenom";
-            this.txtNomPrenom.Size = new System.Drawing.Size(186, 26);
-            this.txtNomPrenom.TabIndex = 36;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(52, 61);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(101, 20);
+            this.label1.Size = new System.Drawing.Size(59, 20);
             this.label1.TabIndex = 37;
-            this.label1.Text = "Nom Prenom";
+            this.label1.Text = "Patient";
             // 
-            // dgPatient
+            // dgRendezVous
             // 
-            this.dgPatient.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.dgPatient.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgPatient.Location = new System.Drawing.Point(562, 61);
-            this.dgPatient.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.dgPatient.Name = "dgPatient";
-            this.dgPatient.RowHeadersWidth = 51;
-            this.dgPatient.RowTemplate.Height = 24;
-            this.dgPatient.Size = new System.Drawing.Size(747, 650);
-            this.dgPatient.TabIndex = 35;
+            this.dgRendezVous.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.dgRendezVous.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgRendezVous.Location = new System.Drawing.Point(562, 61);
+            this.dgRendezVous.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.dgRendezVous.Name = "dgRendezVous";
+            this.dgRendezVous.RowHeadersWidth = 51;
+            this.dgRendezVous.RowTemplate.Height = 24;
+            this.dgRendezVous.Size = new System.Drawing.Size(747, 650);
+            this.dgRendezVous.TabIndex = 35;
             // 
             // btnClose
             // 
@@ -244,39 +167,75 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(52, 494);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 26);
+            this.dateTimePicker1.TabIndex = 56;
+            // 
+            // cbbPatient
+            // 
+            this.cbbPatient.FormattingEnabled = true;
+            this.cbbPatient.Location = new System.Drawing.Point(56, 99);
+            this.cbbPatient.Name = "cbbPatient";
+            this.cbbPatient.Size = new System.Drawing.Size(182, 28);
+            this.cbbPatient.TabIndex = 57;
+            // 
+            // cbbMedecin
+            // 
+            this.cbbMedecin.FormattingEnabled = true;
+            this.cbbMedecin.Location = new System.Drawing.Point(56, 197);
+            this.cbbMedecin.Name = "cbbMedecin";
+            this.cbbMedecin.Size = new System.Drawing.Size(182, 28);
+            this.cbbMedecin.TabIndex = 59;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(52, 159);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(69, 20);
+            this.label2.TabIndex = 58;
+            this.label2.Text = "Medecin";
+            // 
+            // cbbSoin
+            // 
+            this.cbbSoin.FormattingEnabled = true;
+            this.cbbSoin.Location = new System.Drawing.Point(55, 358);
+            this.cbbSoin.Name = "cbbSoin";
+            this.cbbSoin.Size = new System.Drawing.Size(182, 28);
+            this.cbbSoin.TabIndex = 60;
+            // 
             // frmRendezVous
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1374, 790);
             this.ControlBox = false;
+            this.Controls.Add(this.cbbSoin);
+            this.Controls.Add(this.cbbMedecin);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.cbbPatient);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnAgenda);
             this.Controls.Add(this.btnChoisir);
             this.Controls.Add(this.btnSupprimer);
             this.Controls.Add(this.btnModifier);
             this.Controls.Add(this.btnAjouter);
-            this.Controls.Add(this.txtNumeroOrdreMedecin);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.txtSpecialite);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.txtIdentifiant);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.txtTel);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.txtAdresse);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtNomPrenom);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.dgPatient);
+            this.Controls.Add(this.dgRendezVous);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmRendezVous";
             this.Text = "Rendez-Vous";
             this.Load += new System.EventHandler(this.frmRendezVous_Load);
-            this.Leave += new System.EventHandler(this.frmRendezVous_Leave);
-            ((System.ComponentModel.ISupportInitialize)(this.dgPatient)).EndInit();
+//            this.Leave += new System.EventHandler(this.frmRendezVous_Leave);
+            ((System.ComponentModel.ISupportInitialize)(this.dgRendezVous)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -289,21 +248,17 @@
         private System.Windows.Forms.Button btnSupprimer;
         private System.Windows.Forms.Button btnModifier;
         private System.Windows.Forms.Button btnAjouter;
-        private System.Windows.Forms.TextBox txtNumeroOrdreMedecin;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox txtSpecialite;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox txtIdentifiant;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox txtTel;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox txtAdresse;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtNomPrenom;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dgPatient;
+        private System.Windows.Forms.DataGridView dgRendezVous;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.ComboBox cbbPatient;
+        private System.Windows.Forms.ComboBox cbbMedecin;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ComboBox cbbSoin;
     }
 }

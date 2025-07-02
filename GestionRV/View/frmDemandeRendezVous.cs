@@ -21,5 +21,10 @@ namespace GestionRV.View
         {
 
         }
+
+        private void btnAjouter_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

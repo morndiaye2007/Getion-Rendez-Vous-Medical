@@ -11,7 +11,9 @@ namespace WcfServiceRdv.Models
     public class RendezVous
     {
         [Key]
-        public int IdRv {  get; set; } 
+        public int IdRv {  get; set; }
+        public string HeureRv { get; set; }
+
         public DateTime DateRv { get; set; }
         [MaxLength(10)]
         public string Statut { get; set; }

@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Http;
+using System.Web;
 using APIRvMedical.Model;
 using GestionRV.Model;
 
 namespace APIRvMedical.Controllers
 {
-    public class AgendaController
+    public class AgendaController : ApiController
     {
 
         private BdRvMedicalContext db = new BdRvMedicalContext();

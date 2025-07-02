@@ -46,9 +46,8 @@ namespace WcfServiceRdv.Service
         List<Specialite> GetListeSpecialites();
 
         [OperationContract]
-        List<Role> GetListeRoles();
 
-        [OperationContract]
         Specialite GetSpecialiteById(int id);
+
     }
 }

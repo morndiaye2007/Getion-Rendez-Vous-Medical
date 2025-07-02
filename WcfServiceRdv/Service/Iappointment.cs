@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 using WcfServiceRdv.Models;
-using static AppGestionRdv.Service.appointment;
+using static WcfServiceRdv.Service.appointment;
 
 namespace WcfServiceRdv.Service
 {
@@ -14,11 +14,6 @@ namespace WcfServiceRdv.Service
     [ServiceContract]
     public interface Iappointment
     {
-        [OperationContract]
-        void DoWork();
-
-
-
         [OperationContract]
         List<RendezVous> GetAllRendezVous();
 
@@ -34,31 +29,24 @@ namespace WcfServiceRdv.Service
         [OperationContract]
         RendezVous GetRendezVousById(int id);
 
-        // Récupérer tous les soins
         [OperationContract]
-        List<Soin> GetSoin();
+        bool IsCreneauDisponible(int medecinId, DateTime dateRdv, string heureRdv);
 
-        // Récupérer les médecins associés à un soin
-        [OperationContract]
-        List<MedecinViewModel> GetMedecinsParSoin(int soinId);
-
-        // Récupérer l'agenda d'un médecin
-        [OperationContract]
-        Agenda GetAgendaParMedecin(int medecinId);
-
-        // Récupérer les créneaux déjà pris pour un médecin à une date donnée
         [OperationContract]
         List<string> GetCreneauxReserves(int medecinId, DateTime dateRdv);
 
-        
+        [OperationContract]
+        List<Soin> GetSoin();
 
         [OperationContract]
         Soin GetSoinById(int id);
 
         [OperationContract]
-        bool IsCreneauDisponible(int medecinId, DateTime dateRdv, string heureRdv);
+        Agenda GetAgendaParMedecin(int medecinId);
 
         [OperationContract]
         EmailConfirmationData GetEmailConfirmationData(int rdvId);
     }
+
 }
+

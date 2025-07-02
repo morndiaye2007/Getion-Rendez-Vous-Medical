@@ -236,6 +236,32 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <Compile Include="Migrations\202507030149576_InitialCreate.cs" />
+    <Compile Include="Migrations\202507030149576_InitialCreate.Designer.cs">
+      <DependentUpon>202507030149576_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202507080020517_AddRoleEntity.cs" />
+    <Compile Include="Migrations\202507080020517_AddRoleEntity.Designer.cs">
+      <DependentUpon>202507080020517_AddRoleEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202507080033074_AddRolEntity.cs" />
+    <Compile Include="Migrations\202507080033074_AddRolEntity.Designer.cs">
+      <DependentUpon>202507080033074_AddRolEntity.cs</DependentUpon>
+=======
+    <Compile Include="Migrations\202507081609395_Init.cs" />
+    <Compile Include="Migrations\202507081609395_Init.Designer.cs">
+      <DependentUpon>202507081609395_Init.cs</DependentUpon>
+>>>>>>> e721ce2 (reglage d'apiS)
+    </Compile>
+    <Compile Include="Migrations\202507081716537_SyncPatientTable.cs" />
+    <Compile Include="Migrations\202507081716537_SyncPatientTable.Designer.cs">
+      <DependentUpon>202507081716537_SyncPatientTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+>>>>>>> 422411b (reglage de l'api)
     <Compile Include="Models\Agenda.cs" />
     <Compile Include="Models\BdRvMedicalContext.cs" />
     <Compile Include="Models\ClasseReportTicketRv.cs" />
@@ -245,6 +271,7 @@
     <Compile Include="Models\Patient.cs" />
     <Compile Include="Models\Personne.cs" />
     <Compile Include="Models\RendezVous.cs" />
+    <Compile Include="Models\Role.cs" />
     <Compile Include="Models\Secretaire.cs" />
     <Compile Include="Models\Soin.cs" />
     <Compile Include="Models\Specialite.cs" />
@@ -401,6 +428,17 @@
     <Content Include="Scripts\jquery-3.7.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.7.0.min.map" />
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202507081609395_Init.resx">
+      <DependentUpon>202507081609395_Init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202507081716537_SyncPatientTable.resx">
+      <DependentUpon>202507081716537_SyncPatientTable.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+>>>>>>> 422411b (reglage de l'api)
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

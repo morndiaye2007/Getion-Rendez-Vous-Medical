@@ -4,10 +4,14 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using GestionRV.Model;
+using System.Globalization;
+using Newtonsoft.Json;
 
 namespace GestionRV.View
 {
@@ -25,35 +29,84 @@ namespace GestionRV.View
             txtEmail.Text= string.Empty;
             txtGroupeSanguin.Text= string.Empty;
             txtNomPrenom.Text= string.Empty;
-            txtPoids.Text= string.Empty;
-            txtTaille.Text= string.Empty;  
+            //txtPoids.Text= string.Empty;
+            //txtTaille.Text= string.Empty;  
             txtTel.Text= string.Empty;
             txtDateNaissance.Value= DateTime.Now;
            dgPatient.DataSource= db.Patients.ToList();
             txtNomPrenom.Focus();
         }
+        private async Task LoadPatientsAsync()
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:44338/api/");
+                var response = await client.GetAsync("Patient");
+                if (response.IsSuccessStatusCode)
+                {
+                    var json = await response.Content.ReadAsStringAsync();
+                    var patients = JsonConvert.DeserializeObject<List<Patient>>(json);
+                    dgPatient.DataSource = patients;
+                }
+            }
+        }
+
 
         private void frmPatient_Load(object sender, EventArgs e)
         {
-            ResetForm();
+           // ResetForm();
+             LoadPatientsAsync();
         }
 
-        private void btnAjouter_Click(object sender, EventArgs e)
+        private async void btnAjouter_Click(object sender, EventArgs e)
         {
-            Patient p = new Patient();
-            p.NomPrenom = txtNomPrenom.Text;
-            p.Adresse = txtAdresse.Text;
-            p.Tel = txtTel.Text;
-            p.Email = txtEmail.Text;
-            p.DateNaissance=DateTime.Parse(txtDateNaissance.Text);
-            p.GroupeSanguin = txtGroupeSanguin.Text;
-            p.Poids = float.Parse(txtPoids.Text);
-            p.taille = float.Parse(txtTaille.Text);
-            
-            db.Patients.Add(p);
-            db.SaveChanges();
-            ResetForm();
+            try
+            {
+           
+
+                // Crée le patient avec les valeurs correctes
+                Patient p = new Patient
+                {
+                    NomPrenom = txtNomPrenom.Text.Trim(),
+                    Adresse = txtAdresse.Text.Trim(),
+                    Tel = txtTel.Text.Trim(),
+                    Email = txtEmail.Text.Trim(),
+                    DateNaissance = txtDateNaissance.Value,
+                    GroupeSanguin = txtGroupeSanguin.Text.Trim(),
+                     
+                };
+
+                using (HttpClient client = new HttpClient())
+                {
+                    client.BaseAddress = new Uri("https://localhost:44338/api/");
+                    client.DefaultRequestHeaders.Accept.Clear();
+                    client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                    var json = JsonConvert.SerializeObject(p);
+                    var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                    var response = await client.PostAsync("Patient", content);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        MessageBox.Show("Patient ajouté avec succès !");
+                        ResetForm();
+                        await LoadPatientsAsync();
+                    }
+                    else
+                    {
+                        MessageBox.Show($"Erreur lors de l’ajout : {response.ReasonPhrase}");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Une erreur est survenue : {ex.Message}");
+            }
         }
+
+
+
 
         private void btnChoisir_Click(object sender, EventArgs e)
         {
@@ -73,21 +126,34 @@ namespace GestionRV.View
             int? id = int.Parse(dgPatient.CurrentRow.Cells[4].Value.ToString());
             if (id.HasValue)
             {
+                if (!float.TryParse(txtPoids.Text, out float poids))
+                {
+                    MessageBox.Show("Le format du poids est invalide.");
+                    txtPoids.Focus();
+                    return;
+                }
+                if (!float.TryParse(txtTaille.Text, out float taille))
+                {
+                    MessageBox.Show("Le format de la taille est invalide.");
+                    txtTaille.Focus();
+                    return;
+                }
+
                 var p = db.Patients.Find(id);
                 p.NomPrenom = txtNomPrenom.Text;
                 p.Adresse = txtAdresse.Text;
                 p.Tel = txtTel.Text;
                 p.Email = txtEmail.Text;
-                p.DateNaissance = DateTime.Parse(txtDateNaissance.Text);
+                p.DateNaissance = txtDateNaissance.Value;
                 p.GroupeSanguin = txtGroupeSanguin.Text;
-                p.Poids = float.Parse(txtPoids.Text);
-                p.taille = float.Parse(txtTaille.Text);
+                p.Poids = poids;
+                p.taille = taille;
+
                 db.SaveChanges();
                 ResetForm();
-
-
             }
         }
+
 
         private void btnSupprimer_Click(object sender, EventArgs e)
         {

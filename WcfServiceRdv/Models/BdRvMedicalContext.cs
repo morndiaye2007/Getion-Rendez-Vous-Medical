@@ -14,7 +14,7 @@ namespace WcfServiceRdv.Models
     {
         public BdRvMedicalContext() :base("bdRvMedicalContext")
         { }
-        public DbSet<Personne> Personnees { get; set; }
+        public DbSet<Personne> Personnes { get; set; }
         public DbSet<Patient> Patients { get; set; }    
         public DbSet<Utilisateur> Utilisateur { get;set; }
         public DbSet<Medecin> Medecins { get; set; }
@@ -25,5 +25,8 @@ namespace WcfServiceRdv.Models
         public DbSet<GroupeSanguin> GroupeSanguins { get; set; }
         public DbSet<Agenda> Agendas { get; set; }
         public object Patient { get; internal set; }
+        public DbSet<Role> Roles { get; set; }
+
+        public DbSet<Soin> Soin { get; set; }
     }
 }

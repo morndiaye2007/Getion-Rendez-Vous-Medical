@@ -8,7 +8,6 @@ using System.ServiceModel.Web;
 using System.Text;
 using WcfServiceRdv.Models;
 using WcfServiceRdv.Helper;
-using AppGestionRdv.Helper;
 
 namespace WcfServiceRdv.Service
 {

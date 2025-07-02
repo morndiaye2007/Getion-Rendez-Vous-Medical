@@ -48,8 +48,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtNomPrenom = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.dgPatient = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dgPatient)).BeginInit();
+            this.dgRendezVous = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgRendezVous)).BeginInit();
             this.SuspendLayout();
             // 
             // btnClose
@@ -111,6 +111,7 @@
             this.btnAjouter.TabIndex = 67;
             this.btnAjouter.Text = "Ajouter";
             this.btnAjouter.UseVisualStyleBackColor = true;
+            this.btnAjouter.Click += new System.EventHandler(this.btnAjouter_Click);
             // 
             // txtNumeroOrdreMedecin
             // 
@@ -231,18 +232,18 @@
             this.label1.TabIndex = 58;
             this.label1.Text = "Nom Prenom";
             // 
-            // dgPatient
+            // dgRendezVous
             // 
-            this.dgPatient.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.dgPatient.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgPatient.Location = new System.Drawing.Point(420, 52);
-            this.dgPatient.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.dgPatient.Name = "dgPatient";
-            this.dgPatient.RowHeadersWidth = 51;
-            this.dgPatient.RowTemplate.Height = 24;
-            this.dgPatient.Size = new System.Drawing.Size(856, 650);
-            this.dgPatient.TabIndex = 56;
-            this.dgPatient.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgPatient_CellContentClick);
+            this.dgRendezVous.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.dgRendezVous.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgRendezVous.Location = new System.Drawing.Point(420, 52);
+            this.dgRendezVous.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.dgRendezVous.Name = "dgRendezVous";
+            this.dgRendezVous.RowHeadersWidth = 51;
+            this.dgRendezVous.RowTemplate.Height = 24;
+            this.dgRendezVous.Size = new System.Drawing.Size(856, 650);
+            this.dgRendezVous.TabIndex = 56;
+            this.dgRendezVous.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgPatient_CellContentClick);
             // 
             // frmDemandeRendezVous
             // 
@@ -269,11 +270,11 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtNomPrenom);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.dgPatient);
+            this.Controls.Add(this.dgRendezVous);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmDemandeRendezVous";
             this.Text = "frmDemandeRendezVous";
-            ((System.ComponentModel.ISupportInitialize)(this.dgPatient)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgRendezVous)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -301,6 +302,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtNomPrenom;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dgPatient;
+        private System.Windows.Forms.DataGridView dgRendezVous;
     }
 }

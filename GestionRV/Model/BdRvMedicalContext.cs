@@ -12,7 +12,7 @@ namespace GestionRV.Model
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
     public class BdRvMedicalContext:DbContext
     {
-        public BdRvMedicalContext() :base("bdRvMedicalContext")
+        public BdRvMedicalContext() :base("bdrvmedical")
         { }
         public DbSet<Personne> Personnees { get; set; }
         public DbSet<Patient> Patients { get; set; }    
@@ -23,5 +23,7 @@ namespace GestionRV.Model
         public DbSet<RendezVous> RendezVous { get; set; }
         public DbSet<Specialite> Specialites { get; set; }
         public DbSet<GroupeSanguin> GroupeSanguins { get; set; }
+        public DbSet<Role> Roles { get; set; }
+
     }
 }

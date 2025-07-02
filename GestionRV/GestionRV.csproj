@@ -141,6 +141,14 @@
     <Compile Include="Helper\CryptString.cs" />
     <Compile Include="Helper\GMailer.cs" />
     <Compile Include="Helper\Utils.cs" />
+    <Compile Include="Migrations\202507071422025_AddRoleEntity.cs" />
+    <Compile Include="Migrations\202507071422025_AddRoleEntity.Designer.cs">
+      <DependentUpon>202507071422025_AddRoleEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202507081434506_InitBdRvMedical.cs" />
+    <Compile Include="Migrations\202507081434506_InitBdRvMedical.Designer.cs">
+      <DependentUpon>202507081434506_InitBdRvMedical.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Agenda.cs" />
     <Compile Include="Model\BdRvMedicalContext.cs" />
@@ -150,6 +158,7 @@
     <Compile Include="Model\Patient.cs" />
     <Compile Include="Model\Personne.cs" />
     <Compile Include="Model\RendezVous.cs" />
+    <Compile Include="Model\Role.cs" />
     <Compile Include="Model\Secretaire.cs" />
     <Compile Include="Model\SelectListViewModel.cs" />
     <Compile Include="Model\Soin.cs" />
@@ -210,6 +219,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMDI.resx">
       <DependentUpon>frmMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202507071422025_AddRoleEntity.resx">
+      <DependentUpon>202507071422025_AddRoleEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202507081434506_InitBdRvMedical.resx">
+      <DependentUpon>202507081434506_InitBdRvMedical.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

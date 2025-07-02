@@ -4,10 +4,13 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using GestionRV.Model;
+using Newtonsoft.Json;
 
 namespace GestionRV.View
 {
@@ -22,49 +25,122 @@ namespace GestionRV.View
 
         public static object DataSource { get; private set; }
 
-        private void btnFermer_Click(object sender, EventArgs e)
+        private async void frmAgenda_Load(object sender, EventArgs e)
         {
-            this.Close();
+            await ChargerMedecinAsync();
+            await ResetFormAsync();
         }
 
-        private void frmAgenda_Load(object sender, EventArgs e)
+        private async Task ChargerMedecinAsync()
         {
-            var m = db.Medecins.Find(idMedecin);
-            
-            lblMedecin.Text = String.Format("N Ordre:{0}, Nom Prenom: {1}", m.NumeroOrdre, m.NomPrenom);
-            lblIdMedecin.Text = m.IdU.ToString();
-            lblIdMedecin.Visible = false;
-            ResetForm();
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:44338/api/");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                HttpResponseMessage response = await client.GetAsync($"Medecin/{idMedecin}");
+                if (response.IsSuccessStatusCode)
+                {
+                    var json = await response.Content.ReadAsStringAsync();
+                    var medecin = JsonConvert.DeserializeObject<Medecin>(json);
+
+                    if (medecin != null)
+                    {
+                        lblMedecin.Text = $"N Ordre: {medecin.NumeroOrdre}, Nom Prenom: {medecin.NomPrenom}";
+                        lblIdMedecin.Text = medecin.IdU.ToString();
+                        lblIdMedecin.Visible = false;
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Erreur lors du chargement du médecin.");
+                }
+            }
         }
 
-        private void ResetForm()
+        private async Task ResetFormAsync()
         {
-            dgAgenda.DataSource = db.Agenda.Where(a => a.DatePlanifie >= DateTime.Now && a.IdMedecin == idMedecin).ToList();
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:44338/api/");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                HttpResponseMessage response = await client.GetAsync("Agenda");
+                if (response.IsSuccessStatusCode)
+                {
+                    var json = await response.Content.ReadAsStringAsync();
+                    var liste = JsonConvert.DeserializeObject<List<Agenda>>(json);
+
+                    dgAgenda.DataSource = liste
+                        .Where(a => a.DatePlanifie >= DateTime.Now && a.IdMedecin == idMedecin)
+                        .Select(a => new
+                        {
+                            a.IdAgenda,
+                            a.DatePlanifie,
+                            a.Titre,
+                            a.HeureDebut,
+                            a.HeureFin,
+                            a.Creneau,
+                            a.Lieu,
+                            a.Statut
+                        }).ToList();
+                }
+                else
+                {
+                    MessageBox.Show("Erreur lors du chargement des agendas.");
+                }
+            }
+
             txtCreneau.Text = string.Empty;
             txtDateAgenda.Value = DateTime.Now;
             txtHeureDebut.Text = string.Empty;
             txtHeureFin.Text = string.Empty;
-            txtHeureFin.Visible = true;
-
             txtTitre.Text = string.Empty;
+            txtLieu.Text = string.Empty;
             txtTitre.Focus();
         }
 
-        private void btnAjouter_Click(object sender, EventArgs e)
+        private async void btnAjouter_Click(object sender, EventArgs e)
         {
-            Agenda a = new Agenda();
-            a.Creneau = int.Parse(txtCreneau.Text);
-            a.HeureDebut = txtCreneau.Text;
-            a.HeureFin = txtHeureFin.Text;
-            a.IdMedecin = idMedecin;
-            a.DatePlanifie = txtDateAgenda.Value;
-            a.Statut = "brouillon";
-            a.Lieu = txtLieu.Text;
-            a.Titre = txtTitre.Text;
+            var newAgenda = new Agenda
+            {
+                Creneau = int.Parse(txtCreneau.Text),
+                HeureDebut = txtHeureDebut.Text,
+                HeureFin = txtHeureFin.Text,
+                IdMedecin = idMedecin,
+                DatePlanifie = txtDateAgenda.Value,
+                Statut = "brouillon",
+                Lieu = txtLieu.Text,
+                Titre = txtTitre.Text
+            };
 
-            db.Agenda.Add(a);
-            db.SaveChanges();
-            ResetForm();
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:44338/api/");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                var json = JsonConvert.SerializeObject(newAgenda);
+                var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
+
+                HttpResponseMessage response = await client.PostAsync("Agenda", content);
+                if (response.IsSuccessStatusCode)
+                {
+                    MessageBox.Show("Agenda ajouté avec succès !");
+                    await ResetFormAsync();
+                }
+                else
+                {
+                    MessageBox.Show("Erreur lors de l'ajout de l'agenda.");
+                }
+            }
+        }
+
+        private void btnFermer_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

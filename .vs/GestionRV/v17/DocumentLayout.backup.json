@@ -3,10 +3,352 @@
   "WorkspaceRootPath": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\",
   "Documents": [
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 422411b (reglage de l'api)
       "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\migrations\\202507081609395_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\migrations\\202507081609395_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\specialitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\specialitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\medecincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\medecincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\mysqlefconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\migrations\\202507081434506_initbdrvmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\migrations\\202507081434506_initbdrvmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\model\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\view\\frmdemanderendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmdemanderendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmdemanderendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmdemanderendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\view\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\gestionrv\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e721ce2 (reglage d'apiS)
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\migrations\\202507080033074_addrolentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\migrations\\202507080033074_addrolentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\apirvmedical\\migrations\\202507080020517_addroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\migrations\\202507080020517_addroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|c:\\users\\mor ndiaye\\source\\repos\\getion-rendez-vous-medical\\wcfservicerdv\\service\\roleservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+=======
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\roleservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+>>>>>>> e721ce2 (reglage d'apiS)
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\roleservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\patients.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\patients.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\iagend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\iagend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\migrations\\202507071422025_addroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\migrations\\202507071422025_addroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\model\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\groupesanguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\groupesanguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\agend.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\agend.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\medecin.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\medecin.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\appointment.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\appointment.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\imedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\imedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\helper\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\helper\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\migrations\\202507030149576_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\migrations\\202507030149576_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\specialitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\specialitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+=======
+>>>>>>> e721ce2 (reglage d'apiS)
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\prendrerv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\prendrerv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmdemanderendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmdemanderendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\medecincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\medecincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\controllers\\soinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\controllers\\soinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 422411b (reglage de l'api)
       "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\services\\rendezvousservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\services\\rendezvousservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,6 +357,7 @@
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\soin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +378,8 @@
       "RelativeMoniker": "D:0:0:{7F7B2699-89CA-4B73-8230-D7EA8DD5BEB6}|APIRvMedical\\APIRvMedical.csproj|solutionrelative:apirvmedical\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 422411b (reglage de l'api)
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mor Ndiaye\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\L2TCLO7J\\Medecin[2].svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
     },
     {
@@ -106,6 +451,7 @@
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\ipatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\service\\imedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\service\\imedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,6 +464,8 @@
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 422411b (reglage de l'api)
       "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -149,10 +497,6 @@
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\bdrvmedicalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\model\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\model\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -161,6 +505,7 @@
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\classereportticketrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\wcfservicerdv\\models\\groupesanguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\groupesanguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -189,6 +534,8 @@
       "RelativeMoniker": "D:0:0:{A852B0CB-1F03-4F20-8812-B655BC54F254}|WcfServiceRdv\\WcfServiceRdv.csproj|solutionrelative:wcfservicerdv\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 422411b (reglage de l'api)
       "AbsoluteMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\gestionrv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6228A063-6306-4723-8CE9-BD89ADC59FBD}|GestionRV\\GestionRV.csproj|solutionrelative:gestionrv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -276,7 +623,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+<<<<<<< HEAD
+          "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> e721ce2 (reglage d'apiS)
           "Children": [
             {
               "$type": "Bookmark",
@@ -284,7 +635,1212 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 3,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\RendezVous.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\RendezVous.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\RendezVous.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:38:46.855Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "202507081609395_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507081609395_Init.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Migrations\\202507081609395_Init.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507081609395_Init.cs",
+              "RelativeToolTip": "APIRvMedical\\Migrations\\202507081609395_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:09:42.771Z",
+>>>>>>> e721ce2 (reglage d'apiS)
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Medecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Medecin.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Medecin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:38:38.206Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "BdRvMedicalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:06:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Personne.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Personne.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Personne.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Personne.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:47:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedecinController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\MedecinController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\MedecinController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\MedecinController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\MedecinController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:06:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:32:51.588Z",
+>>>>>>> e721ce2 (reglage d'apiS)
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
+              "RelativeDocumentMoniker": "APIRvMedical\\Web.config",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
+              "RelativeToolTip": "APIRvMedical\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-11T19:02:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Agenda.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Agenda.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Agenda.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Agenda.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:06:16.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySqlEFConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\MySqlEFConfiguration.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\MySqlEFConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\MySqlEFConfiguration.cs",
+              "RelativeToolTip": "APIRvMedical\\MySqlEFConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:14.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BdRvMedicalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\BdRvMedicalContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAzwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:06:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202507080033074_AddRolEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507080033074_AddRolEntity.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Migrations\\202507080033074_AddRolEntity.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507080033074_AddRolEntity.cs",
+              "RelativeToolTip": "APIRvMedical\\Migrations\\202507080033074_AddRolEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:33:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:45.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\DbContextOptions.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\DbContextOptions.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\DbContextOptions.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\DbContextOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:06:31.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 25,
+=======
+              "DocumentIndex": 5,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Medecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Medecin.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Medecin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:38:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecialiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:27:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySqlEFConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\MySqlEFConfiguration.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\MySqlEFConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\MySqlEFConfiguration.cs",
+              "RelativeToolTip": "APIRvMedical\\MySqlEFConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:14.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202507081434506_InitBdRvMedical.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Migrations\\202507081434506_InitBdRvMedical.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Migrations\\202507081434506_InitBdRvMedical.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Migrations\\202507081434506_InitBdRvMedical.cs",
+              "RelativeToolTip": "GestionRV\\Migrations\\202507081434506_InitBdRvMedical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:34:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BdRvMedicalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\BdRvMedicalContext.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Model\\BdRvMedicalContext.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\BdRvMedicalContext.cs",
+              "RelativeToolTip": "GestionRV\\Model\\BdRvMedicalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:08:46.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\App.config",
+              "RelativeDocumentMoniker": "GestionRV\\App.config",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\App.config",
+              "RelativeToolTip": "GestionRV\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-18T01:48:02.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
+              "RelativeDocumentMoniker": "APIRvMedical\\Web.config",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Web.config",
+              "RelativeToolTip": "APIRvMedical\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-11T19:02:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmRendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmRendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmRendezVous.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIAwwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:46:08.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmRendezVous.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmRendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmRendezVous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:46:40.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\RendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Model\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\RendezVous.cs",
+              "RelativeToolTip": "GestionRV\\Model\\RendezVous.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:46:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\RendezVous.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\RendezVous.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\RendezVous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:38:46.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RendezVousController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\RendezVousController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\RendezVousController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\RendezVousController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\RendezVousController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:38:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDemandeRendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmDemandeRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmDemandeRendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmDemandeRendezVous.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmDemandeRendezVous.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:21:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmDemandeRendezVous.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmDemandeRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmDemandeRendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmDemandeRendezVous.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmDemandeRendezVous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:41.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmAgenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmAgenda.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmAgenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:37:59.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAgenda.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmAgenda.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmAgenda.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:36:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmPatient.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmPatient.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:20:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:48.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmMedecin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmMedecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs",
+              "RelativeToolTip": "GestionRV\\View\\frmMedecin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:20:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmMedecin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmMedecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmMedecin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:45.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Patient.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Patient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:18:59.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:05:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AgendaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\AgendaController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\AgendaController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\AgendaController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\AgendaController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:53:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Agenda.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Agenda.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Agenda.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Agenda.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:06:16.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:45.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Patient.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:59:59.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 26,
+=======
+              "DocumentIndex": 46,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Medecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Medecin.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Medecin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:59:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 16,
+=======
+              "DocumentIndex": 37,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Role.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:25:30.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 8,
+              "Title": "202507080020517_AddRoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507080020517_AddRoleEntity.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Migrations\\202507080020517_AddRoleEntity.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507080020517_AddRoleEntity.cs",
+              "RelativeToolTip": "APIRvMedical\\Migrations\\202507080020517_AddRoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:21:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+=======
+              "DocumentIndex": 31,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Patients.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Patients.svc.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\Patients.svc.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Patients.svc.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\Patients.svc.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:58:54.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 9,
+=======
+              "DocumentIndex": 30,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "RoleService.svc",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\RoleService.svc",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\RoleService.svc",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\RoleService.svc",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\RoleService.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2025-07-07T22:10:23.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 15,
+=======
+              "DocumentIndex": 36,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Role.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:04:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 11,
+=======
+              "DocumentIndex": 32,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IRoleService.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IRoleService.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:07:45.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 17,
+=======
+              "DocumentIndex": 38,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Role.cs",
+              "RelativeToolTip": "GestionRV\\Model\\Role.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:17:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 13,
+=======
+              "DocumentIndex": 34,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "BdRvMedicalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\BdRvMedicalContext.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\BdRvMedicalContext.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\BdRvMedicalContext.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\BdRvMedicalContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:58:54.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 12,
+=======
+              "DocumentIndex": 33,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "IAgend.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IAgend.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\IAgend.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IAgend.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\IAgend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:57:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 19,
+=======
+              "DocumentIndex": 40,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Model\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Utilisateur.cs",
+              "RelativeToolTip": "GestionRV\\Model\\Utilisateur.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:18:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 18,
+=======
+              "DocumentIndex": 39,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "202507071422025_AddRoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Migrations\\202507071422025_AddRoleEntity.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Migrations\\202507071422025_AddRoleEntity.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Migrations\\202507071422025_AddRoleEntity.cs",
+              "RelativeToolTip": "GestionRV\\Migrations\\202507071422025_AddRoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:22:06.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 24,
+=======
+              "DocumentIndex": 44,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\RendezVous.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\RendezVous.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\RendezVous.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:16.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 23,
+=======
+              "DocumentIndex": 43,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Secretaire.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Secretaire.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Secretaire.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Secretaire.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Secretaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 20,
+              "Title": "BdRvMedicalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\BdRvMedicalContext.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Model\\BdRvMedicalContext.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\BdRvMedicalContext.cs",
+              "RelativeToolTip": "GestionRV\\Model\\BdRvMedicalContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:08:46.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+=======
+              "DocumentIndex": 47,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "GroupeSanguin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\GroupeSanguin.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\GroupeSanguin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\GroupeSanguin.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\GroupeSanguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:59:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 28,
+=======
+              "DocumentIndex": 48,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Agenda.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Agenda.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Agenda.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Agenda.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:58:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 22,
+=======
+              "DocumentIndex": 42,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Soin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Soin.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Soin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Soin.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Soin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 21,
+=======
+              "DocumentIndex": 41,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Specialite.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Specialite.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Specialite.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Specialite.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Specialite.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:39.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 29,
+=======
+              "DocumentIndex": 49,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Agend.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Agend.svc.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\Agend.svc.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Agend.svc.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\Agend.svc.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:54:14.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 32,
+=======
+              "DocumentIndex": 52,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "IMedecin.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IMedecin.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\IMedecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IMedecin.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\IMedecin.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:57:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 33,
+=======
+              "DocumentIndex": 53,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Iappointment.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Iappointment.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\Iappointment.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Iappointment.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\Iappointment.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:57:33.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 30,
+=======
+              "DocumentIndex": 50,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Medecin.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Medecin.svc.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\Medecin.svc.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Medecin.svc.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\Medecin.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:58:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 31,
+=======
+              "DocumentIndex": 51,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "appointment.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\appointment.svc.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\appointment.svc.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\appointment.svc.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Service\\appointment.svc.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwE0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:56:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 34,
+=======
+              "DocumentIndex": 54,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Personne.cs",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\Personne.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Personne.cs",
+              "RelativeToolTip": "WcfServiceRdv\\Models\\Personne.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:00:08.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 35,
+=======
+              "DocumentIndex": 55,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Helper\\Utils.cs",
+              "RelativeDocumentMoniker": "GestionRV\\Helper\\Utils.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Helper\\Utils.cs",
+              "RelativeToolTip": "GestionRV\\Helper\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:04:41.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 36,
+=======
+              "DocumentIndex": 56,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Web.config",
+              "RelativeDocumentMoniker": "WcfServiceRdv\\Web.config",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Web.config",
+              "RelativeToolTip": "WcfServiceRdv\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-18T01:38:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 40,
+              "Title": "SpecialiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\SpecialiteController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:27:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AgendaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\AgendaController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\AgendaController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\AgendaController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\AgendaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:53:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+=======
+              "DocumentIndex": 57,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "APIRvMedical\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:49:05.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 38,
+              "Title": "202507030149576_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507030149576_InitialCreate.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Migrations\\202507030149576_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Migrations\\202507030149576_InitialCreate.cs",
+              "RelativeToolTip": "APIRvMedical\\Migrations\\202507030149576_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:50:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmRendezVous.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmRendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmRendezVous.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmRendezVous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:46:40.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+=======
+              "DocumentIndex": 59,
+>>>>>>> e721ce2 (reglage d'apiS)
+              "Title": "PrendreRv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\PrendreRv.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\PrendreRv.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\PrendreRv.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\PrendreRv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:46:37.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
+              "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
+              "RelativeToolTip": "GestionRV\\frmMDI.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:43:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Specialite.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Specialite.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Models\\Specialite.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Specialite.cs",
+              "RelativeToolTip": "APIRvMedical\\Models\\Specialite.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:28:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmMDI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs",
+              "RelativeDocumentMoniker": "GestionRV\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\frmMDI.cs [Design]",
+              "RelativeToolTip": "GestionRV\\frmMDI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:39:36.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmPatient.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmPatient.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:48.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmDemandeRendezVous.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmDemandeRendezVous.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmDemandeRendezVous.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmDemandeRendezVous.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmDemandeRendezVous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:41.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmAgenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmAgenda.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmAgenda.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmAgenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:37:59.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmMedecin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs",
+              "RelativeDocumentMoniker": "GestionRV\\View\\frmMedecin.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\View\\frmMedecin.cs [Design]",
+              "RelativeToolTip": "GestionRV\\View\\frmMedecin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:45.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MedecinController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\MedecinController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\MedecinController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\MedecinController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\MedecinController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:06:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:05:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RendezVousService.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\RendezVousService.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Services\\RendezVousService.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\RendezVousService.cs",
+              "RelativeToolTip": "APIRvMedical\\Services\\RendezVousService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:42:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SoinsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SoinsController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\SoinsController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\SoinsController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\SoinsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:12:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RendezVousController.cs",
+              "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\RendezVousController.cs",
+              "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\RendezVousController.cs",
+              "ToolTip": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\RendezVousController.cs",
+              "RelativeToolTip": "APIRvMedical\\Controllers\\RendezVousController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:38:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Soin.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Soin.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\Soin.cs",
@@ -297,6 +1853,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\BdRvMedicalContext.cs",
@@ -388,6 +1945,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 56,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Medecin[2].svc",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\L2TCLO7J\\Medecin[2].svc",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\L2TCLO7J\\Medecin[2].svc",
@@ -399,6 +1959,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "Agenda.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\Agenda.cs",
@@ -412,6 +1973,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 57,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "ClasseReportTicketRv.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\ClasseReportTicketRv.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\ClasseReportTicketRv.cs",
@@ -419,10 +1983,12 @@
               "RelativeToolTip": "APIRvMedical\\Models\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:06:28.391Z"
+              "WhenOpened": "2025-06-18T19:06:28.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
               "Title": "RendezVousController.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\RendezVousController.cs",
@@ -436,6 +2002,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 58,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "GroupeSanguin.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Models\\GroupeSanguin.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Models\\GroupeSanguin.cs",
@@ -443,11 +2012,16 @@
               "RelativeToolTip": "APIRvMedical\\Models\\GroupeSanguin.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:06:34.518Z"
+              "WhenOpened": "2025-06-18T19:06:34.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 18,
+=======
+              "DocumentIndex": 59,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Utils.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Helper\\Utils.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Helper\\Utils.cs",
@@ -455,11 +2029,16 @@
               "RelativeToolTip": "WcfServiceRdv\\Helper\\Utils.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:05:30.831Z"
+              "WhenOpened": "2025-06-18T18:05:30.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 19,
+=======
+              "DocumentIndex": 60,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "GMailer.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Helper\\GMailer.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Helper\\GMailer.cs",
@@ -467,10 +2046,12 @@
               "RelativeToolTip": "WcfServiceRdv\\Helper\\GMailer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:05:15.701Z"
+              "WhenOpened": "2025-06-18T18:05:15.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
               "Title": "Agend.svc.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\Agend.svc.cs",
@@ -521,6 +2102,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
+=======
+              "DocumentIndex": 61,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "CryptString.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Helper\\CryptString.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Helper\\CryptString.cs",
@@ -528,10 +2112,12 @@
               "RelativeToolTip": "WcfServiceRdv\\Helper\\CryptString.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:55.299Z"
+              "WhenOpened": "2025-06-18T18:04:55.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\BdRvMedicalContext.cs",
@@ -545,6 +2131,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 62,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "GMailer.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Helper\\GMailer.cs",
               "RelativeDocumentMoniker": "GestionRV\\Helper\\GMailer.cs",
@@ -552,11 +2141,16 @@
               "RelativeToolTip": "GestionRV\\Helper\\GMailer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:25.66Z"
+              "WhenOpened": "2025-06-18T18:04:25.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
+=======
+              "DocumentIndex": 63,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "CryptString.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Helper\\CryptString.cs",
               "RelativeDocumentMoniker": "GestionRV\\Helper\\CryptString.cs",
@@ -564,10 +2158,12 @@
               "RelativeToolTip": "GestionRV\\Helper\\CryptString.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:04:16.291Z"
+              "WhenOpened": "2025-06-18T18:04:16.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
               "Title": "Utils.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Helper\\Utils.cs",
@@ -593,6 +2189,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 25,
+=======
+              "DocumentIndex": 64,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "IPatients.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IPatients.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Service\\IPatients.cs",
@@ -600,10 +2199,12 @@
               "RelativeToolTip": "WcfServiceRdv\\Service\\IPatients.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:58:12.848Z"
+              "WhenOpened": "2025-06-18T17:58:12.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 26,
               "Title": "IMedecin.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\IMedecin.cs",
@@ -641,6 +2242,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 29,
+=======
+              "DocumentIndex": 65,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "IService1.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\IService1.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\IService1.cs",
@@ -648,10 +2252,12 @@
               "RelativeToolTip": "WcfServiceRdv\\IService1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:59:27.27Z"
+              "WhenOpened": "2025-06-18T17:59:27.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 30,
               "Title": "appointment.svc.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service\\appointment.svc.cs",
@@ -665,6 +2271,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 31,
+=======
+              "DocumentIndex": 66,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Patients[1].svc",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\S2TL7BQ4\\Patients[1].svc",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\S2TL7BQ4\\Patients[1].svc",
@@ -676,7 +2285,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 32,
+=======
+              "DocumentIndex": 67,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Agenda.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\Agenda.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\Agenda.cs",
@@ -684,11 +2297,16 @@
               "RelativeToolTip": "GestionRV\\Model\\Agenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:39:41.122Z"
+              "WhenOpened": "2025-06-18T16:39:41.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 34,
+=======
+              "DocumentIndex": 68,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "202506181506387_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Migrations\\202506181506387_InitialCreate.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Migrations\\202506181506387_InitialCreate.cs",
@@ -696,11 +2314,16 @@
               "RelativeToolTip": "WcfServiceRdv\\Migrations\\202506181506387_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:06:41.761Z"
+              "WhenOpened": "2025-06-18T15:06:41.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 35,
+=======
+              "DocumentIndex": 69,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Migrations\\Configuration.cs",
@@ -708,10 +2331,12 @@
               "RelativeToolTip": "WcfServiceRdv\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:04:31.356Z"
+              "WhenOpened": "2025-06-18T15:04:31.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 37,
               "Title": "BdRvMedicalContext.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\BdRvMedicalContext.cs",
@@ -725,6 +2350,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 36,
+=======
+              "DocumentIndex": 70,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "DbContextOptions.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\DbContextOptions.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\DbContextOptions.cs",
@@ -732,10 +2360,12 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\DbContextOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:47:42.923Z"
+              "WhenOpened": "2025-06-18T01:47:42.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 33,
               "Title": "Personne.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Personne.cs",
@@ -749,6 +2379,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 38,
+=======
+              "DocumentIndex": 71,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "ClasseReportTicketRv.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Model\\ClasseReportTicketRv.cs",
               "RelativeDocumentMoniker": "GestionRV\\Model\\ClasseReportTicketRv.cs",
@@ -756,10 +2389,12 @@
               "RelativeToolTip": "GestionRV\\Model\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:11:01.063Z"
+              "WhenOpened": "2025-06-18T02:11:01.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 40,
               "Title": "GroupeSanguin.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\GroupeSanguin.cs",
@@ -773,6 +2408,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 39,
+=======
+              "DocumentIndex": 72,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "ClasseReportTicketRv.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\ClasseReportTicketRv.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Models\\ClasseReportTicketRv.cs",
@@ -780,10 +2418,12 @@
               "RelativeToolTip": "WcfServiceRdv\\Models\\ClasseReportTicketRv.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:59:10.946Z"
+              "WhenOpened": "2025-06-18T01:59:10.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 41,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Models\\Patient.cs",
@@ -857,6 +2497,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 47,
+=======
+              "DocumentIndex": 73,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\App.config",
               "RelativeDocumentMoniker": "GestionRV\\App.config",
@@ -864,11 +2507,16 @@
               "RelativeToolTip": "GestionRV\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-18T01:48:02.883Z"
+              "WhenOpened": "2025-06-18T01:48:02.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 48,
+=======
+              "DocumentIndex": 74,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\Program.cs",
               "RelativeDocumentMoniker": "GestionRV\\Program.cs",
@@ -876,11 +2524,16 @@
               "RelativeToolTip": "GestionRV\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:47:57.526Z"
+              "WhenOpened": "2025-06-18T01:47:57.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 49,
+=======
+              "DocumentIndex": 75,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\GestionRV\\packages.config",
               "RelativeDocumentMoniker": "GestionRV\\packages.config",
@@ -888,11 +2541,16 @@
               "RelativeToolTip": "GestionRV\\packages.config",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-18T01:47:52.923Z"
+              "WhenOpened": "2025-06-18T01:47:52.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 51,
+=======
+              "DocumentIndex": 77,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\PatientController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\PatientController.cs",
@@ -900,11 +2558,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\PatientController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:34.036Z"
+              "WhenOpened": "2025-06-18T01:42:34.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 52,
+=======
+              "DocumentIndex": 78,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "MedecinService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\MedecinService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\MedecinService.cs",
@@ -912,11 +2575,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\MedecinService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:27.067Z"
+              "WhenOpened": "2025-06-18T01:42:27.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 53,
+=======
+              "DocumentIndex": 79,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "IRendezVousService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IRendezVousService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IRendezVousService.cs",
@@ -924,11 +2592,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IRendezVousService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:21.888Z"
+              "WhenOpened": "2025-06-18T01:42:21.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 54,
+=======
+              "DocumentIndex": 80,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "IPatientService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IPatientService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IPatientService.cs",
@@ -936,11 +2609,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IPatientService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:16.785Z"
+              "WhenOpened": "2025-06-18T01:42:16.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 55,
+=======
+              "DocumentIndex": 81,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "IMedecinService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IMedecinService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IMedecinService.cs",
@@ -948,11 +2626,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IMedecinService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:13.189Z"
+              "WhenOpened": "2025-06-18T01:42:13.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 50,
+=======
+              "DocumentIndex": 76,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "PatientService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\PatientService.cs",
@@ -960,11 +2643,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\PatientService.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:10:05.756Z"
+              "WhenOpened": "2025-06-18T01:10:05.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 56,
+=======
+              "DocumentIndex": 82,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "IAgendaService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\IAgendaService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\IAgendaService.cs",
@@ -972,11 +2660,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\IAgendaService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:07.834Z"
+              "WhenOpened": "2025-06-18T01:42:07.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 57,
+=======
+              "DocumentIndex": 83,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "AgendaService.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Services\\AgendaService.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Services\\AgendaService.cs",
@@ -984,11 +2677,16 @@
               "RelativeToolTip": "APIRvMedical\\Services\\AgendaService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:42:02.499Z"
+              "WhenOpened": "2025-06-18T01:42:02.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 58,
+=======
+              "DocumentIndex": 84,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "Service1.svc.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\WcfServiceRdv\\Service1.svc.cs",
               "RelativeDocumentMoniker": "WcfServiceRdv\\Service1.svc.cs",
@@ -996,11 +2694,16 @@
               "RelativeToolTip": "WcfServiceRdv\\Service1.svc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:38:27.916Z"
+              "WhenOpened": "2025-06-18T01:38:27.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 61,
+=======
+              "DocumentIndex": 87,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "SecretaireDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\SecretaireDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\SecretaireDto.cs",
@@ -1008,11 +2711,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\SecretaireDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:29:39.731Z"
+              "WhenOpened": "2025-06-11T19:29:39.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 62,
+=======
+              "DocumentIndex": 88,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "SpecialiteDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\SpecialiteDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\SpecialiteDto.cs",
@@ -1020,11 +2728,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\SpecialiteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:29:16.186Z"
+              "WhenOpened": "2025-06-11T19:29:16.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 60,
+=======
+              "DocumentIndex": 86,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "UtilisateurDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\UtilisateurDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\UtilisateurDto.cs",
@@ -1032,11 +2745,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\UtilisateurDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:28:46.816Z"
+              "WhenOpened": "2025-06-11T19:28:46.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 63,
+=======
+              "DocumentIndex": 89,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "PatientDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\PatientDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\PatientDto.cs",
@@ -1044,11 +2762,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\PatientDto.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:28:22.622Z"
+              "WhenOpened": "2025-06-11T19:28:22.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 59,
+=======
+              "DocumentIndex": 85,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "MedecinDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\MedecinDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\MedecinDto.cs",
@@ -1056,11 +2779,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\MedecinDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:27:36.417Z"
+              "WhenOpened": "2025-06-11T19:27:36.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 64,
+=======
+              "DocumentIndex": 90,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "RendezVousDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\RendezVousDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\RendezVousDto.cs",
@@ -1068,11 +2796,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\RendezVousDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:27:08.768Z"
+              "WhenOpened": "2025-06-11T19:27:08.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 65,
+=======
+              "DocumentIndex": 91,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "AgendaDto.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\dtos\\AgendaDto.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\dtos\\AgendaDto.cs",
@@ -1080,11 +2813,16 @@
               "RelativeToolTip": "APIRvMedical\\dtos\\AgendaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:26:43.432Z"
+              "WhenOpened": "2025-06-11T19:26:43.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 66,
+=======
+              "DocumentIndex": 92,
+>>>>>>> 422411b (reglage de l'api)
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\Mor Ndiaye\\source\\repos\\Getion-Rendez-Vous-Medical\\APIRvMedical\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "APIRvMedical\\Controllers\\ValuesController.cs",
@@ -1092,7 +2830,8 @@
               "RelativeToolTip": "APIRvMedical\\Controllers\\ValuesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T18:38:42.928Z"
+              "WhenOpened": "2025-06-11T18:38:42.928Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -21,5 +21,6 @@ namespace APIRvMedical.Model
         [MaxLength(10)]
         public String NumeroOrdre { get; set; }
         public virtual ICollection<Agenda> agenda { get; set; }
+
     }
 }

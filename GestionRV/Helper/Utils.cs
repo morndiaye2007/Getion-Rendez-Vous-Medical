@@ -18,22 +18,7 @@ namespace AppGestionRendezVous.Helper
         /// </summary>
         /// <param name="TitreErreur">Titre de l'erreur</param>
         /// <param name="erreur">Message de l'erreur</param>
-        public void WriteDataError(string TitreErreur, string erreur)
-        {
-            try
-            {
-                Td_Erreur log = new Td_Erreur();
-                log.DateErreur = DateTime.Now;
-                log.DescriptionErreur = erreur.Length > 2000 ? erreur.Substring(0, 2000) : erreur;
-                log.TitreErreur = TitreErreur;
-                db.Td_Erreur.Add(log);
-                db.SaveChanges();
-            }
-            catch (Exception ex)
-            {
-                WriteLogSystem(ex.ToString(), "WriteDataError");
-            }
-        }
+       
 
         /// <summary>
         /// Cette methode nous permet de logger sur le systeme
@@ -44,7 +29,7 @@ namespace AppGestionRendezVous.Helper
         {
             using (EventLog eventLog = new EventLog("Application"))
             {
-                eventLog.Source = "AppGestionRendezVous";
+                eventLog.Source = "GestionRendezVous";
                 eventLog.WriteEntry(string.Format("date: {0}, libelle: {1}, description {2}", DateTime.Now, libelle, erreur), EventLogEntryType.Information, 101, 1);
             }
         }
@@ -82,22 +67,7 @@ namespace AppGestionRendezVous.Helper
         /// <summary>
         /// Cette méthode permet de logger une action utilisateur en base de données.
         /// </summary>
-        public void LogUserAction(string user, string action)
-        {
-            try
-            {
-                Td_Erreur log = new Td_Erreur();
-                log.DateErreur = DateTime.Now;
-                log.DescriptionErreur = $"Utilisateur: {user}, Action: {action}";
-                log.TitreErreur = "Action Utilisateur";
-                db.Td_Erreur.Add(log);
-                db.SaveChanges();
-            }
-            catch (Exception ex)
-            {
-                WriteLogSystem(ex.ToString(), "LogUserAction");
-            }
-        }
+        
         /// <summary>
         /// Cette log permet de logger les exceptions non gérées au niveau global
         /// </summary>
