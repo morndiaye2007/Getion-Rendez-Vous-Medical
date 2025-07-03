@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KafkaFlow.Serializer.NewtonsoftJson</name>
+    </assembly>
+    <members>
+        <member name="T:KafkaFlow.Serializer.NewtonsoftJsonDeserializer">
+            <summary>
+            A message deserializer using NewtonsoftJson library
+            </summary>
+        </member>
+        <member name="M:KafkaFlow.Serializer.NewtonsoftJsonDeserializer.#ctor(Newtonsoft.Json.JsonSerializerSettings)">
+            <summary>
+            Initializes a new instance of the <see cref="T:KafkaFlow.Serializer.NewtonsoftJsonDeserializer"/> class.
+            </summary>
+            <param name="settings">Json serializer settings</param>
+        </member>
+        <member name="M:KafkaFlow.Serializer.NewtonsoftJsonDeserializer.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:KafkaFlow.Serializer.NewtonsoftJsonDeserializer"/> class.
+            </summary>
+        </member>
+        <member name="M:KafkaFlow.Serializer.NewtonsoftJsonDeserializer.DeserializeAsync(System.IO.Stream,System.Type,KafkaFlow.ISerializerContext)">
+            <inheritdoc/>
+        </member>
+        <member name="T:KafkaFlow.Serializer.NewtonsoftJsonSerializer">
+            <summary>
+            A message serializer using NewtonsoftJson library
+            </summary>
+        </member>
+        <member name="M:KafkaFlow.Serializer.NewtonsoftJsonSerializer.#ctor(Newtonsoft.Json.JsonSerializerSettings)">
+            <summary>
+            Initializes a new instance of the <see cref="T:KafkaFlow.Serializer.NewtonsoftJsonSerializer"/> class.
+            </summary>
+            <param name="settings">Json serializer settings</param>
+        </member>
+        <member name="M:KafkaFlow.Serializer.NewtonsoftJsonSerializer.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:KafkaFlow.Serializer.NewtonsoftJsonSerializer"/> class.
+            </summary>
+        </member>
+        <member name="M:KafkaFlow.Serializer.NewtonsoftJsonSerializer.SerializeAsync(System.Object,System.IO.Stream,KafkaFlow.ISerializerContext)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
