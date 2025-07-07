@@ -1,8 +1,24 @@
-# Ignorer le dossier de Visual Studio
+# Fichiers temporaires Visual Studio
 .vs/
-
-# Ignorer les fichiers de compilation et binaires
 bin/
 obj/
-*.user
 *.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+
+# Fichiers de build
+*.exe
+*.dll
+*.pdb
+
+# Packages NuGet
+packages/
+
+# Autres
+*.nupkg
+*.nuspec
+*.psess
+*.vsp
