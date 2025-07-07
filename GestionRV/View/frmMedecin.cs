@@ -130,6 +130,9 @@ namespace GestionRV.View
             a.Show();
         }
 
-       
+        private void dgMedecin_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
